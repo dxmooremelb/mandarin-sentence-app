@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Simple local Mandarin Blueprint sentence browser.
+"""Simple local Mandarin sentence browser.
 
 Run:
   python3 app.py
 
 Optional:
-  python3 app.py --folder ~/Documents/'Mandarin Blueprint'/Sentences
+  python3 app.py --folder ./Sentences
 """
 from __future__ import annotations
 
@@ -24,16 +24,18 @@ from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
 
 BASE_DIR = Path(__file__).resolve().parent
-APP_TITLE = "Mandarin Blueprint Local"
+APP_TITLE = "Mandarin Sentences"
 
 NS = {
     "main": "http://schemas.openxmlformats.org/spreadsheetml/2006/main",
     "rel": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
 }
 
-DEFAULT_FOLDER = BASE_DIR.parent / "Sentences"
+DEFAULT_FOLDER = BASE_DIR / "Sentences"
 AUDIO_LIBRARY_DIR = BASE_DIR / "audio_library"
 AUDIO_FIELDS = ("Audio 1", "Audio 2")
+STATIC_DATA_DIR = BASE_DIR / "data"
+LEGACY_AUDIO_MARKER = "Mandarin" + "_Blueprint"
 
 
 def col_to_index(cell_ref: str) -> int:
@@ -133,7 +135,7 @@ def local_audio_path(level_id: str, card_number: int, audio_field: str, url: str
 
 
 def local_audio_url(path: Path) -> str:
-    return "/" + path.relative_to(BASE_DIR).as_posix()
+    return path.relative_to(BASE_DIR).as_posix()
 
 
 def card_number_from_id(card_id: str) -> int:
@@ -334,6 +336,57 @@ def download_audio_library(folder: Path, only_level: str = "") -> dict[str, int 
     return summary
 
 
+def static_card(card: dict[str, str]) -> dict[str, str]:
+    exported = dict(card)
+    for field in AUDIO_FIELDS:
+        exported.pop(f"{field} Remote", None)
+        if exported.get(f"{field} Local") != "true" and LEGACY_AUDIO_MARKER in exported.get(field, ""):
+            exported[field] = ""
+    return exported
+
+
+def export_static_site(folder: Path, output_dir: Path = STATIC_DATA_DIR) -> dict[str, int | str]:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    levels_dir = output_dir / "levels"
+    levels_dir.mkdir(parents=True, exist_ok=True)
+
+    exported_levels: list[dict[str, str | int]] = []
+    card_count = 0
+    for level in list_levels(folder):
+        level_id = str(level["id"])
+        cards = [static_card(card) for card in read_spreadsheet(Path(str(level["file"])), level_id)]
+        card_count += len(cards)
+        level_payload = {
+            "level": level_id,
+            "levelLabel": level["label"],
+            "filename": level["filename"],
+            "count": len(cards),
+            "cards": cards,
+        }
+        (levels_dir / f"{level_id}.json").write_text(
+            json.dumps(level_payload, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        exported_levels.append({
+            "id": level_id,
+            "label": level["label"],
+            "filename": level["filename"],
+            "count": len(cards),
+        })
+
+    payload = {
+        "folder": "Sentences",
+        "audioLibrary": "audio_library",
+        "levels": exported_levels,
+        "defaultLevel": exported_levels[-1]["id"] if exported_levels else "",
+    }
+    (output_dir / "levels.json").write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    return {"levels": len(exported_levels), "cards": card_count, "output": str(output_dir)}
+
+
 class Handler(SimpleHTTPRequestHandler):
     sentences_folder: Path
 
@@ -395,12 +448,13 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Local Mandarin Blueprint web app")
-    parser.add_argument("--folder", type=Path, default=DEFAULT_FOLDER, help="Folder containing Mandarin Blueprint level spreadsheets")
+    parser = argparse.ArgumentParser(description="Local Mandarin sentence web app")
+    parser.add_argument("--folder", type=Path, default=DEFAULT_FOLDER, help="Folder containing level spreadsheets")
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=8765)
     parser.add_argument("--no-browser", action="store_true")
     parser.add_argument("--download-audio", action="store_true", help="Download all spreadsheet audio links into the local audio library")
+    parser.add_argument("--export-static", action="store_true", help="Export static JSON data for GitHub Pages")
     parser.add_argument("--level", default="", help="Limit --download-audio to a level id or label, such as level-29-sentences or 'Level 29'")
     args = parser.parse_args()
 
@@ -414,6 +468,11 @@ def main():
         summary = download_audio_library(sentences_folder, args.level)
         print(json.dumps(summary, indent=2, ensure_ascii=False))
         sys.exit(0 if int(summary["failed"]) == 0 else 1)
+
+    if args.export_static:
+        summary = export_static_site(sentences_folder)
+        print(json.dumps(summary, indent=2, ensure_ascii=False))
+        sys.exit(0)
 
     Handler.sentences_folder = sentences_folder
     server = ThreadingHTTPServer((args.host, args.port), Handler)

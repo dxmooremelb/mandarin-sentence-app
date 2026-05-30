@@ -1,0 +1,31 @@
+{
+  "folder": "Sentences",
+  "audioLibrary": "audio_library",
+  "levels": [
+    {
+      "id": "level-28-sentences",
+      "label": "Level 28",
+      "filename": "Level 28 Sentences.xlsx",
+      "count": 97
+    },
+    {
+      "id": "level-29-sentences",
+      "label": "Level 29",
+      "filename": "Level 29 Sentences.xlsx",
+      "count": 88
+    },
+    {
+      "id": "level-30-sentences",
+      "label": "Level 30",
+      "filename": "Level 30 Sentences.xlsx",
+      "count": 76
+    },
+    {
+      "id": "level-31-sentences",
+      "label": "Level 31",
+      "filename": "Level 31 Sentences.csv",
+      "count": 57
+    }
+  ],
+  "defaultLevel": "level-31-sentences"
+}

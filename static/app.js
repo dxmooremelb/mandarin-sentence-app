@@ -7,7 +7,8 @@ let audio = new Audio();
 let playToken = 0;
 let sessionStudied = new Set();
 
-const STORAGE_KEY = 'mbStudyStateV1';
+const STORAGE_KEY = 'mandarinSentenceStudyStateV1';
+const DATA_ROOT = 'data';
 const today = () => new Date().toISOString().slice(0, 10);
 const $ = (id) => document.getElementById(id);
 
@@ -392,7 +393,7 @@ function render() {
 
 async function loadCards(levelId) {
   try {
-    const res = await fetch(`/api/cards?level=${encodeURIComponent(levelId || '')}`);
+    const res = await fetch(`${DATA_ROOT}/levels/${encodeURIComponent(levelId || '')}.json`);
     const data = await res.json();
     if (!res.ok || data.error) throw new Error(data.error || 'Could not load cards.');
 
@@ -403,7 +404,7 @@ async function loadCards(levelId) {
     const savedCard = state.settings.currentByLevel[selectedLevel];
     current = Math.max(0, filtered.findIndex(card => card.id === savedCard));
     $('search').value = '';
-    $('fileInfo').textContent = `${data.levelLabel}: ${data.count} cards from ${data.file}`;
+    $('fileInfo').textContent = `${data.levelLabel}: ${data.count} cards`;
     saveState();
     hideAnswer();
     applyFilter();
@@ -415,7 +416,7 @@ async function loadCards(levelId) {
 
 async function loadLevels() {
   try {
-    const res = await fetch('/api/levels');
+    const res = await fetch(`${DATA_ROOT}/levels.json`);
     const data = await res.json();
     if (!res.ok || data.error) throw new Error(data.error || 'Could not load levels.');
 
