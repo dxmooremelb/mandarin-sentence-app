@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Mandarin Sentence Flashcards</title>
+        <link rel="stylesheet" href="/static/styles.css?v=20260527-3" />
+    </head>
+    <body>
+        <main class="app">
+            <header>
+                <div>
+                    <p class="eyebrow">Offline study deck</p>
+                    <h1>Mandarin Sentences</h1>
+                    <p id="fileInfo" class="muted">Loading spreadsheet…</p>
+                </div>
+                <div class="stats"><span id="position">0 / 0</span></div>
+            </header>
+
+            <section class="levelBar">
+                <button id="prevLevelBtn" type="button">← Level</button>
+                <select id="levelSelect" aria-label="Level"></select>
+                <button id="nextLevelBtn" type="button">Level →</button>
+                <button id="themeToggle" type="button">Dark</button>
+                <label class="speedControl" for="speedSelect">
+                    <span>Speed</span>
+                    <select id="speedSelect">
+                        <option value="0.5">0.5x</option>
+                        <option value="0.75">0.75x</option>
+                        <option value="1" selected>1x</option>
+                        <option value="1.25">1.25x</option>
+                        <option value="1.5">1.5x</option>
+                        <option value="1.75">1.75x</option>
+                        <option value="2">2x</option>
+                    </select>
+                </label>
+            </section>
+
+            <section class="studyPanel">
+                <div class="field">
+                    <label for="modeSelect">Mode</label>
+                    <select id="modeSelect">
+                        <option value="browse">Browse</option>
+                        <option value="chinese">Chinese only</option>
+                        <option value="english">English only</option>
+                        <option value="audio">Audio only</option>
+                        <option value="shadow">Shadowing</option>
+                    </select>
+                </div>
+                <div class="field">
+                    <label for="filterSelect">Cards</label>
+                    <select id="filterSelect">
+                        <option value="all">All</option>
+                        <option value="hard">Hard only</option>
+                        <option value="due">Review due</option>
+                    </select>
+                </div>
+                <div class="field">
+                    <label for="searchScope">Search</label>
+                    <select id="searchScope">
+                        <option value="all">Everything</option>
+                        <option value="chinese">Chinese</option>
+                        <option value="english">English</option>
+                        <option value="characters">Characters</option>
+                    </select>
+                </div>
+                <label class="checkControl">
+                    <input id="loopToggle" type="checkbox" />
+                    <span>Loop audio</span>
+                </label>
+                <div class="field compact">
+                    <label for="repeatCount">Repeats</label>
+                    <select id="repeatCount">
+                        <option value="1">1</option>
+                        <option value="3" selected>3</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <div class="field compact">
+                    <label for="voiceMode">Voice</label>
+                    <select id="voiceMode">
+                        <option value="selected">Selected</option>
+                        <option value="alternate">Alternate</option>
+                    </select>
+                </div>
+            </section>
+
+            <section class="toolbar">
+                <input
+                    id="search"
+                    type="search"
+                    placeholder="Search Chinese, English, characters…"
+                />
+                <button id="prevBtn">← Previous</button>
+                <button id="nextBtn">Next →</button>
+                <button id="randomBtn">Random</button>
+                <button id="revealBtn">Reveal</button>
+            </section>
+
+            <section class="workspace">
+                <aside class="levelListWrap">
+                    <div class="listHeader">
+                        <strong>Levels</strong>
+                        <span id="levelCount" class="muted"></span>
+                    </div>
+                    <ol id="levelList"></ol>
+                </aside>
+
+                <div>
+                    <section class="progressStrip">
+                        <div>
+                            <span class="metricLabel">Today</span>
+                            <strong id="todayCount">0</strong>
+                        </div>
+                        <div>
+                            <span class="metricLabel">Hard</span>
+                            <strong id="hardCount">0</strong>
+                        </div>
+                        <div>
+                            <span class="metricLabel">Due</span>
+                            <strong id="dueCount">0</strong>
+                        </div>
+                        <div>
+                            <span class="metricLabel">Level</span>
+                            <strong id="levelProgress">0%</strong>
+                        </div>
+                    </section>
+
+                    <section id="card" class="card">
+                        <p class="muted">Loading…</p>
+                    </section>
+
+                    <section class="listWrap">
+                        <div class="listHeader">
+                            <strong>Cards</strong>
+                            <span id="filteredCount" class="muted"></span>
+                        </div>
+                        <ol id="cardList"></ol>
+                    </section>
+                </div>
+            </section>
+        </main>
+
+        <script src="/static/app.js"></script>
+    </body>
+</html>
