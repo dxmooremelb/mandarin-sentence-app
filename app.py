@@ -116,6 +116,9 @@ def level_label(path: Path) -> str:
 
 
 def level_slug(path: Path) -> str:
+    number = level_number(path)
+    if number >= 0:
+        return f"level-{number}-sentences"
     return re.sub(r"[^a-z0-9]+", "-", path.stem.lower()).strip("-")
 
 
@@ -351,9 +354,11 @@ def export_static_site(folder: Path, output_dir: Path = STATIC_DATA_DIR) -> dict
     levels_dir.mkdir(parents=True, exist_ok=True)
 
     exported_levels: list[dict[str, str | int]] = []
+    exported_level_ids: set[str] = set()
     card_count = 0
     for level in list_levels(folder):
         level_id = str(level["id"])
+        exported_level_ids.add(level_id)
         cards = [static_card(card) for card in read_spreadsheet(Path(str(level["file"])), level_id)]
         card_count += len(cards)
         level_payload = {
@@ -384,7 +389,18 @@ def export_static_site(folder: Path, output_dir: Path = STATIC_DATA_DIR) -> dict
         json.dumps(payload, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
+    for old_level_file in levels_dir.glob("*.json"):
+        if old_level_file.stem not in exported_level_ids:
+            old_level_file.unlink()
     return {"levels": len(exported_levels), "cards": card_count, "output": str(output_dir)}
+
+
+def sync_static_site(folder: Path, only_level: str = "", skip_audio: bool = False) -> dict[str, object]:
+    audio_summary = {"total": 0, "downloaded": 0, "skipped": 0, "failed": 0, "errors": []}
+    if not skip_audio:
+        audio_summary = download_audio_library(folder, only_level)
+    export_summary = export_static_site(folder)
+    return {"audio": audio_summary, "json": export_summary}
 
 
 class Handler(SimpleHTTPRequestHandler):
@@ -455,6 +471,8 @@ def main():
     parser.add_argument("--no-browser", action="store_true")
     parser.add_argument("--download-audio", action="store_true", help="Download all spreadsheet audio links into the local audio library")
     parser.add_argument("--export-static", action="store_true", help="Export static JSON data for GitHub Pages")
+    parser.add_argument("--sync-static", action="store_true", help="Download missing audio, then rebuild static JSON for GitHub Pages")
+    parser.add_argument("--skip-audio", action="store_true", help="Use with --sync-static to rebuild JSON without downloading audio")
     parser.add_argument("--level", default="", help="Limit --download-audio to a level id or label, such as level-29-sentences or 'Level 29'")
     args = parser.parse_args()
 
@@ -468,6 +486,12 @@ def main():
         summary = download_audio_library(sentences_folder, args.level)
         print(json.dumps(summary, indent=2, ensure_ascii=False))
         sys.exit(0 if int(summary["failed"]) == 0 else 1)
+
+    if args.sync_static:
+        summary = sync_static_site(sentences_folder, args.level, args.skip_audio)
+        print(json.dumps(summary, indent=2, ensure_ascii=False))
+        failed = int(summary["audio"].get("failed", 0)) if isinstance(summary["audio"], dict) else 0
+        sys.exit(0 if failed == 0 else 1)
 
     if args.export_static:
         summary = export_static_site(sentences_folder)
