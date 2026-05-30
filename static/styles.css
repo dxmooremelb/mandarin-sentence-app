@@ -197,6 +197,7 @@ li button.active small, #levelList button.active span, li button.active .muted {
   align-items: center;
 }
 
+.mobileCardActions { display: none; }
 .cardTopline { margin-bottom: 18px; }
 .audioRow, .reviewRow { margin: 18px 0; }
 .audioRow button {
@@ -296,37 +297,82 @@ body[data-theme="dark"] * {
 }
 
 @media (max-width: 760px) {
-  .app { padding: 16px 12px 32px; }
-  header { flex-direction: column; gap: 10px; margin-bottom: 12px; }
-  h1 { font-size: 34px; }
-  .stats { padding: 9px 14px; }
+  .app {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px 24px;
+  }
+  header {
+    order: 1;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: end;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .workspace { order: 2; }
+  .toolbar { order: 3; }
+  .levelBar { order: 4; }
+  .studyPanel { order: 5; }
+  .eyebrow { display: none; }
+  h1 { font-size: 24px; line-height: 1.08; }
+  #fileInfo { margin: 4px 0 0; font-size: 14px; }
+  .stats { padding: 7px 11px; font-size: 15px; box-shadow: none; }
   .levelBar, .studyPanel, .toolbar { gap: 8px; margin-bottom: 8px; }
-  .levelBar, .studyPanel, .toolbar, .progressStrip { grid-template-columns: 1fr 1fr; }
+  .levelBar, .studyPanel, .toolbar { grid-template-columns: 1fr 1fr; }
   .levelBar select, .toolbar input, .speedControl { grid-column: 1 / -1; }
   .field, .checkControl { min-width: 0; }
   input, select, textarea { border-radius: 10px; padding: 10px 11px; }
   button { min-height: 42px; padding: 9px 10px; border-radius: 10px; }
   .workspace { gap: 10px; }
+  .workspace > div {
+    display: flex;
+    flex-direction: column;
+  }
+  .card { order: 1; }
+  .progressStrip { order: 2; }
+  .listWrap { order: 3; }
+  .levelListWrap { display: none; }
   .progressStrip {
     grid-template-columns: repeat(4, 1fr);
     gap: 6px;
-    margin-bottom: 8px;
+    margin: 0 0 10px;
   }
   .progressStrip > div { border-radius: 10px; padding: 8px 9px; }
   .metricLabel { font-size: 11px; }
   .progressStrip strong { font-size: 18px; }
   .card {
     border-radius: 16px;
-    padding: 18px;
-    margin-bottom: 12px;
+    padding: 14px;
+    margin-bottom: 10px;
+    box-shadow: 0 8px 24px var(--shadow-soft);
   }
-  .cardTopline { margin-bottom: 12px; }
-  .audioRow, .reviewRow { gap: 8px; margin: 12px 0; }
-  .chinese { font-size: 42px; margin-bottom: 12px; }
-  .english { font-size: 22px; margin-bottom: 14px; }
+  .cardTopline {
+    gap: 8px;
+    margin-bottom: 10px;
+    font-size: 13px;
+  }
+  .audioRow, .reviewRow { gap: 8px; margin: 10px 0; }
+  .chinese { font-size: 34px; margin-bottom: 10px; }
+  .english { font-size: 18px; margin-bottom: 12px; }
+  .audioRow button,
+  .reviewRow button,
+  #cardAudio,
+  .notesBox,
+  details {
+    display: none;
+  }
+  .mobileCardActions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 12px;
+  }
   .listWrap, .levelListWrap {
     border-radius: 14px;
     padding: 12px;
   }
+  .listWrap { display: none; }
+  .toolbar button { display: none; }
   ol { max-height: 280px; }
 }

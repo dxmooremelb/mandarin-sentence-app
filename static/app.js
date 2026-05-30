@@ -293,6 +293,13 @@ function renderCard(card) {
       <button onclick="markStudied(activeAllCard(), 'easy')">Easy</button>
     </div>
 
+    <div class="mobileCardActions" aria-label="Card navigation">
+      <button type="button" onclick="goToCard(current - 1)">Previous</button>
+      <button type="button" onclick="goToCard(current + 1)">Next</button>
+      <button type="button" class="secondary" onclick="reveal()">Reveal</button>
+      <button type="button" class="secondary" onclick="playCardAudio('${escapeAttr(card.id)}')">Play</button>
+    </div>
+
     <label class="notesBox">
       <span>Notes</span>
       <textarea id="notesInput" rows="3" placeholder="Grammar, pronunciation, memory hook...">${escapeHtml(progress.notes)}</textarea>
