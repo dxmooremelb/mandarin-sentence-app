@@ -3,8 +3,10 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#0d121b" />
         <title>Mandarin Sentence Flashcards</title>
-        <link rel="stylesheet" href="static/styles.css?v=20260530-3" />
+        <link rel="manifest" href="manifest.webmanifest" />
+        <link rel="stylesheet" href="static/styles.css?v=20260530-4" />
     </head>
     <body>
         <main class="app">
@@ -14,7 +16,11 @@
                     <h1>Mandarin Sentences</h1>
                     <p id="fileInfo" class="muted">Loading spreadsheet…</p>
                 </div>
-                <div class="stats"><span id="position">0 / 0</span></div>
+                <div class="headerTools">
+                    <div class="stats"><span id="position">0 / 0</span></div>
+                    <button id="offlineBtn" class="offlineBtn" type="button">Save offline</button>
+                    <span id="offlineStatus" class="offlineStatus" aria-live="polite"></span>
+                </div>
             </header>
 
             <section class="levelBar">
@@ -141,6 +147,6 @@
             </section>
         </main>
 
-        <script src="static/app.js?v=20260530-3"></script>
+        <script src="static/app.js?v=20260530-4"></script>
     </body>
 </html>

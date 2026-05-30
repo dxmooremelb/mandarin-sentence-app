@@ -1,0 +1,10 @@
+{
+  "name": "Mandarin Sentence Flashcards",
+  "short_name": "Sentences",
+  "description": "Offline Mandarin sentence flashcards.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0d121b",
+  "theme_color": "#0d121b"
+}

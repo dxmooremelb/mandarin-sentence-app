@@ -9,6 +9,8 @@ let sessionStudied = new Set();
 
 const STORAGE_KEY = 'mandarinSentenceStudyStateV1';
 const DATA_ROOT = 'data';
+const OFFLINE_CACHE = 'mandarin-sentence-offline-v4';
+const OFFLINE_MANIFEST = 'offline-assets.json';
 const today = () => new Date().toISOString().slice(0, 10);
 const $ = (id) => document.getElementById(id);
 
@@ -382,6 +384,88 @@ function syncControls() {
   $('voiceMode').value = state.settings.voiceMode;
 }
 
+function setOfflineStatus(message) {
+  const status = $('offlineStatus');
+  if (status) status.textContent = message;
+}
+
+async function registerServiceWorker() {
+  if (!('serviceWorker' in navigator)) {
+    setOfflineStatus('Offline save unavailable');
+    const button = $('offlineBtn');
+    if (button) button.disabled = true;
+    return;
+  }
+  try {
+    await navigator.serviceWorker.register('service-worker.js');
+    setOfflineStatus('Ready for offline save');
+  } catch (err) {
+    console.error('Service worker registration failed', err);
+    setOfflineStatus('Offline setup failed');
+  }
+}
+
+async function cacheAsset(cache, asset) {
+  const url = new URL(asset, window.location.href);
+  const request = new Request(url.href, {cache: 'reload'});
+  const response = await fetch(request);
+  if (!response.ok) throw new Error(`${response.status} ${asset}`);
+  await cache.put(url.href, response);
+}
+
+async function saveOffline() {
+  const button = $('offlineBtn');
+  if (!('caches' in window)) {
+    setOfflineStatus('Offline save unavailable');
+    return;
+  }
+
+  try {
+    if (button) {
+      button.disabled = true;
+      button.textContent = 'Saving...';
+    }
+    setOfflineStatus('Preparing...');
+
+    const manifestResponse = await fetch(OFFLINE_MANIFEST, {cache: 'reload'});
+    if (!manifestResponse.ok) throw new Error('Could not load offline asset list.');
+    const manifest = await manifestResponse.json();
+    const assets = [...new Set([...(manifest.assets || []), OFFLINE_MANIFEST])];
+    const cache = await caches.open(OFFLINE_CACHE);
+    let completed = 0;
+    let failed = 0;
+
+    for (const asset of assets) {
+      try {
+        await cacheAsset(cache, asset);
+      } catch (err) {
+        failed += 1;
+        console.warn('Offline cache failed', asset, err);
+      }
+      completed += 1;
+      if (completed === 1 || completed % 10 === 0 || completed === assets.length) {
+        setOfflineStatus(`${completed}/${assets.length} saved`);
+      }
+    }
+
+    if (failed) {
+      setOfflineStatus(`${assets.length - failed}/${assets.length} saved`);
+      alert(`${failed} files could not be saved offline. Try again on a stronger connection.`);
+    } else {
+      setOfflineStatus('Saved offline');
+    }
+  } catch (err) {
+    console.error('Offline save failed', err);
+    setOfflineStatus('Offline save failed');
+    alert(`Could not save offline: ${err.message}`);
+  } finally {
+    if (button) {
+      button.disabled = false;
+      button.textContent = 'Save offline';
+    }
+  }
+}
+
 function render() {
   const card = activeCard();
   document.body.dataset.mode = state.settings.mode;
@@ -490,6 +574,7 @@ $('voiceMode').addEventListener('change', (e) => {
   state.settings.voiceMode = e.target.value;
   saveState();
 });
+$('offlineBtn').addEventListener('click', saveOffline);
 
 document.addEventListener('keydown', (e) => {
   if (isTypingTarget(e.target)) return;
@@ -511,4 +596,5 @@ document.addEventListener('keydown', (e) => {
 
 syncControls();
 applyTheme();
+registerServiceWorker();
 loadLevels();

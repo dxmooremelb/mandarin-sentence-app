@@ -36,6 +36,15 @@ AUDIO_LIBRARY_DIR = BASE_DIR / "audio_library"
 AUDIO_FIELDS = ("Audio 1", "Audio 2")
 STATIC_DATA_DIR = BASE_DIR / "data"
 LEGACY_AUDIO_MARKER = "Mandarin" + "_Blueprint"
+OFFLINE_MANIFEST_PATH = BASE_DIR / "offline-assets.json"
+APP_ASSETS = (
+    "./",
+    "index.html",
+    "manifest.webmanifest",
+    "service-worker.js",
+    "static/styles.css?v=20260530-4",
+    "static/app.js?v=20260530-4",
+)
 
 
 def col_to_index(cell_ref: str) -> int:
@@ -348,6 +357,22 @@ def static_card(card: dict[str, str]) -> dict[str, str]:
     return exported
 
 
+def write_offline_manifest(output_dir: Path = STATIC_DATA_DIR) -> dict[str, int | str]:
+    assets = list(APP_ASSETS)
+    data_files = sorted(output_dir.rglob("*.json"))
+    audio_files = sorted(AUDIO_LIBRARY_DIR.rglob("*"))
+    for path in data_files + audio_files:
+        if path.is_file() and path.name != ".DS_Store":
+            assets.append(path.relative_to(BASE_DIR).as_posix())
+
+    deduped = list(dict.fromkeys(assets))
+    OFFLINE_MANIFEST_PATH.write_text(
+        json.dumps({"assets": deduped}, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    return {"assets": len(deduped), "output": str(OFFLINE_MANIFEST_PATH)}
+
+
 def export_static_site(folder: Path, output_dir: Path = STATIC_DATA_DIR) -> dict[str, int | str]:
     output_dir.mkdir(parents=True, exist_ok=True)
     levels_dir = output_dir / "levels"
@@ -392,7 +417,13 @@ def export_static_site(folder: Path, output_dir: Path = STATIC_DATA_DIR) -> dict
     for old_level_file in levels_dir.glob("*.json"):
         if old_level_file.stem not in exported_level_ids:
             old_level_file.unlink()
-    return {"levels": len(exported_levels), "cards": card_count, "output": str(output_dir)}
+    offline = write_offline_manifest(output_dir)
+    return {
+        "levels": len(exported_levels),
+        "cards": card_count,
+        "output": str(output_dir),
+        "offlineAssets": int(offline["assets"]),
+    }
 
 
 def sync_static_site(folder: Path, only_level: str = "", skip_audio: bool = False) -> dict[str, object]:
