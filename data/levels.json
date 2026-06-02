@@ -31,7 +31,13 @@
       "label": "Level 32",
       "filename": "Level 32 Sentences.csv",
       "count": 53
+    },
+    {
+      "id": "level-33-sentences",
+      "label": "Level 33",
+      "filename": "Level 33 Sentences.csv",
+      "count": 64
     }
   ],
-  "defaultLevel": "level-32-sentences"
+  "defaultLevel": "level-33-sentences"
 }
