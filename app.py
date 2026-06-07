@@ -42,8 +42,8 @@ APP_ASSETS = (
     "index.html",
     "manifest.webmanifest",
     "service-worker.js",
-    "static/styles.css?v=20260530-4",
-    "static/app.js?v=20260530-4",
+    "static/styles.css?v=20260607-1",
+    "static/app.js?v=20260607-1",
 )
 
 

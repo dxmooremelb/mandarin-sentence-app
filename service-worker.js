@@ -1,11 +1,11 @@
-const CACHE_NAME = 'mandarin-sentence-offline-v4';
+const CACHE_NAME = 'mandarin-sentence-offline-v5';
 const APP_SHELL = [
   './',
   'index.html',
   'manifest.webmanifest',
   'offline-assets.json',
-  'static/styles.css?v=20260530-4',
-  'static/app.js?v=20260530-4',
+  'static/styles.css?v=20260607-1',
+  'static/app.js?v=20260607-1',
   'data/levels.json',
 ];
 
@@ -32,13 +32,28 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const request = event.request;
   if (request.method !== 'GET') return;
+  const url = new URL(request.url);
+
+  if (url.origin === self.location.origin && (url.pathname.includes('/data/') || url.pathname.endsWith('/offline-assets.json'))) {
+    event.respondWith(
+      fetch(request)
+        .then((response) => {
+          if (response.ok) {
+            const copy = response.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
+          }
+          return response;
+        })
+        .catch(() => caches.match(request))
+    );
+    return;
+  }
 
   event.respondWith(
     caches.match(request)
       .then((cached) => {
         if (cached) return cached;
         return fetch(request).then((response) => {
-          const url = new URL(request.url);
           if (response.ok && url.origin === self.location.origin) {
             const copy = response.clone();
             caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));

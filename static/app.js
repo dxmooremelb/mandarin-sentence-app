@@ -9,7 +9,7 @@ let sessionStudied = new Set();
 
 const STORAGE_KEY = 'mandarinSentenceStudyStateV1';
 const DATA_ROOT = 'data';
-const OFFLINE_CACHE = 'mandarin-sentence-offline-v4';
+const OFFLINE_CACHE = 'mandarin-sentence-offline-v5';
 const OFFLINE_MANIFEST = 'offline-assets.json';
 const today = () => new Date().toISOString().slice(0, 10);
 const $ = (id) => document.getElementById(id);
