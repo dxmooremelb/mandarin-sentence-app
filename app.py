@@ -103,7 +103,11 @@ def cell_text(cell: ET.Element, shared_strings: list[str]) -> str:
 
 
 def extract_characters(raw_text: str) -> str:
-    match = re.search(r"Characters:\s*(.*)$", raw_text or "", flags=re.S)
+    match = re.search(
+        r"Characters:\s*(.*?)(?:\n\s*(?:Personal Notes|Picture|Add to reviews|Level\s+\d+)\b|$)",
+        raw_text or "",
+        flags=re.S,
+    )
     if not match:
         return ""
     chars = re.findall(r"[\u3400-\u9fff]", match.group(1))
