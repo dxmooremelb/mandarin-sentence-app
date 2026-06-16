@@ -1,11 +1,11 @@
-const CACHE_NAME = 'mandarin-sentence-offline-v5';
+const CACHE_NAME = 'mandarin-sentence-offline-v6';
 const APP_SHELL = [
   './',
   'index.html',
   'manifest.webmanifest',
   'offline-assets.json',
-  'static/styles.css?v=20260607-1',
-  'static/app.js?v=20260607-1',
+  'static/styles.css?v=20260616-1',
+  'static/app.js?v=20260616-1',
   'data/levels.json',
 ];
 
