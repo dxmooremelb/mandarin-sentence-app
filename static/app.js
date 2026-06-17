@@ -159,10 +159,6 @@ function audioSrc(card, which) {
   return (card?.[field] || "").trim();
 }
 
-function audioIsLocal(card, which) {
-  const field = which === "2" ? "Audio 2" : "Audio 1";
-  return card?.[`${field} Local`] === "true";
-}
 
 function preferredVoice(card) {
   return audioSrc(card, "1") ? "1" : "2";
@@ -290,8 +286,8 @@ function renderCard(card) {
     ${shadow ? '<div class="shadowCue">Shadowing mode</div>' : ""}
 
     <div class="audioRow">
-      ${audioSrc(card, "1") ? `<button onclick="playCardAudio('${escapeAttr(card.id)}', '1')">Play Audio 1 ${audioIsLocal(card, "1") ? "Local" : "Online"}</button>` : ""}
-      ${audioSrc(card, "2") ? `<button onclick="playCardAudio('${escapeAttr(card.id)}', '2')">Play Audio 2 ${audioIsLocal(card, "2") ? "Local" : "Online"}</button>` : ""}
+      ${audioSrc(card, "1") ? `<button onclick="playCardAudio('${escapeAttr(card.id)}', '1')">Play Audio 1</button>` : ""}
+      ${audioSrc(card, "2") ? `<button onclick="playCardAudio('${escapeAttr(card.id)}', '2')">Play Audio 2</button>` : ""}
       <button class="secondary" onclick="playCardAudio('${escapeAttr(card.id)}')">Play Preferred</button>
     </div>
     <audio id="cardAudio" controls preload="none" src="${escapeAttr(firstAudio)}"></audio>

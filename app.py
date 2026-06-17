@@ -241,8 +241,6 @@ def read_xlsx(path: Path, level_id: str = "") -> list[dict[str, str]]:
         rec = {headers[j] if j < len(headers) and headers[j] else f"Column {j+1}": row[j] if j < len(row) else "" for j in range(max(len(headers), len(row)))}
         rec["id"] = f"{level_id}:{i}" if level_id else str(i)
         rec["characters"] = extract_characters(rec.get("Raw Text", ""))
-        if level_id:
-            attach_local_audio(rec, level_id)
         records.append(rec)
     return records
 
@@ -262,8 +260,6 @@ def read_csv(path: Path, level_id: str = "") -> list[dict[str, str]]:
             continue
         rec["id"] = f"{level_id}:{i}" if level_id else str(i)
         rec["characters"] = extract_characters(rec.get("Raw Text", ""))
-        if level_id:
-            attach_local_audio(rec, level_id)
         records.append(rec)
     return records
 
@@ -353,12 +349,7 @@ def download_audio_library(folder: Path, only_level: str = "") -> dict[str, int 
 
 
 def static_card(card: dict[str, str]) -> dict[str, str]:
-    exported = dict(card)
-    for field in AUDIO_FIELDS:
-        exported.pop(f"{field} Remote", None)
-        if exported.get(f"{field} Local") != "true" and LEGACY_AUDIO_MARKER in exported.get(field, ""):
-            exported[field] = ""
-    return exported
+    return dict(card)
 
 
 def write_offline_manifest(output_dir: Path = STATIC_DATA_DIR) -> dict[str, int | str]:
@@ -431,11 +422,8 @@ def export_static_site(folder: Path, output_dir: Path = STATIC_DATA_DIR) -> dict
 
 
 def sync_static_site(folder: Path, only_level: str = "", skip_audio: bool = False) -> dict[str, object]:
-    audio_summary = {"total": 0, "downloaded": 0, "skipped": 0, "failed": 0, "errors": []}
-    if not skip_audio:
-        audio_summary = download_audio_library(folder, only_level)
     export_summary = export_static_site(folder)
-    return {"audio": audio_summary, "json": export_summary}
+    return {"json": export_summary}
 
 
 class Handler(SimpleHTTPRequestHandler):
