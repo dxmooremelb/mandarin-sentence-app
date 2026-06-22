@@ -421,9 +421,66 @@ def export_static_site(folder: Path, output_dir: Path = STATIC_DATA_DIR) -> dict
     }
 
 
+def merge_translations(output_dir: Path = STATIC_DATA_DIR) -> dict[str, int]:
+    """Merge persisted English translations back into exported level JSON files."""
+    translations_path = output_dir / "translations.json"
+    if not translations_path.exists():
+        return {"merged": 0, "levels": 0}
+    with open(translations_path, "r", encoding="utf-8") as f:
+        all_trans = json.load(f)
+    levels_dir = output_dir / "levels"
+    total_merged = 0
+    levels_updated = 0
+    for lvl_str, lvl_trans in all_trans.items():
+        level_file = levels_dir / f"level-{lvl_str}-sentences.json"
+        if not level_file.exists():
+            continue
+        with open(level_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        merged = 0
+        for i, card in enumerate(data["cards"], 1):
+            t = lvl_trans.get(str(i))
+            if t:
+                card["English"] = t
+                merged += 1
+        if merged:
+            with open(level_file, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            total_merged += merged
+            levels_updated += 1
+    return {"merged": total_merged, "levels": levels_updated}
+
+def save_existing_translations(output_dir: Path = STATIC_DATA_DIR) -> int:
+    """Before regenerating, back up any existing English translations from level JSONs."""
+    translations_path = output_dir / "translations.json"
+    existing = {}
+    if translations_path.exists():
+        with open(translations_path, "r", encoding="utf-8") as f:
+            existing = json.load(f)
+    levels_dir = output_dir / "levels"
+    saved = 0
+    for level_file in sorted(levels_dir.glob("level-*-sentences.json")):
+        lvl_num = level_file.stem.split("-")[1]
+        with open(level_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        lvl_trans = {}
+        for i, card in enumerate(data["cards"], 1):
+            eng = card.get("English", "")
+            if eng and eng != "No English available":
+                lvl_trans[str(i)] = eng
+        if lvl_trans:
+            existing[lvl_num] = lvl_trans
+            saved += len(lvl_trans)
+    if saved:
+        with open(translations_path, "w", encoding="utf-8") as f:
+            json.dump(existing, f, ensure_ascii=False, indent=2)
+    return saved
+
 def sync_static_site(folder: Path, only_level: str = "", skip_audio: bool = False) -> dict[str, object]:
+    saved = save_existing_translations()
     export_summary = export_static_site(folder)
-    return {"json": export_summary}
+    translation_summary = merge_translations()
+    return {"json": export_summary, "translations": dict(translation_summary, **{"previously_saved": saved})}
 
 
 class Handler(SimpleHTTPRequestHandler):
