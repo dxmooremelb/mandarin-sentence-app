@@ -20,7 +20,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%BF%99%E6%9C%AC%E4%B9%A6%E9%87%8C%E4%BD%A0%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E7%89%A9%E6%98%AF%E8%B0%81-%E7%94%B7.mp3",
       "Raw Text": "这本书里你最喜欢的人物是谁？\nCharacters: https://traverse.link/Mandarin_Blueprint/物 https://traverse.link/Mandarin_Blueprint/人",
       "id": "level-40-sentences:2",
-      "characters": "物 人"
+      "characters": "人 物"
     },
     {
       "Chinese": "这个人是一个了不起的人物。",
@@ -29,7 +29,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%BF%99%E4%B8%AA%E4%BA%BA%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E4%BA%BA%E7%89%A9-%E7%94%B7.mp3",
       "Raw Text": "这个人是一个了不起的人物。\n了不起 liǎobuqǐ - incredible, amazing\nCharacters: https://traverse.link/Mandarin_Blueprint/物 https://traverse.link/Mandarin_Blueprint/人",
       "id": "level-40-sentences:3",
-      "characters": "物 人"
+      "characters": "人 物"
     },
     {
       "Chinese": "大家总是说动物是人最好的朋友。",
@@ -47,7 +47,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E7%94%B7%E5%AD%A9%E7%94%9F%E7%97%85%E4%BA%86%EF%BC%8C%E5%8C%BB%E7%94%9F%E7%BB%99%E4%BA%86%E4%BB%96%E4%B8%80%E4%BA%9B%E8%8D%AF%E7%89%A9-%E7%94%B7.mp3",
       "Raw Text": "男孩生病了，医生给了他一些药物。\nCharacters: 物 https://traverse.link/Mandarin_Blueprint/药",
       "id": "level-40-sentences:5",
-      "characters": "物 药"
+      "characters": "药 物"
     },
     {
       "Chinese": "生物是一门我很感兴趣的课。",
@@ -56,7 +56,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E7%94%9F%E7%89%A9%E6%98%AF%E4%B8%80%E9%97%A8%E6%88%91%E5%BE%88%E6%84%9F%E5%85%B4%E8%B6%A3%E7%9A%84%E8%AF%BE-%E7%94%B7.mp3",
       "Raw Text": "生物是一门我很感兴趣的课。\nbiology\nCharacters: 物 https://traverse.link/Mandarin_Blueprint/生",
       "id": "level-40-sentences:6",
-      "characters": "物 生"
+      "characters": "生 物"
     },
     {
       "Chinese": "鱼是生活在水里的生物。",
@@ -65,7 +65,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E9%B1%BC%E6%98%AF%E7%94%9F%E6%B4%BB%E5%9C%A8%E6%B0%B4%E9%87%8C%E7%9A%84%E7%94%9F%E7%89%A9-%E7%94%B7.mp3",
       "Raw Text": "鱼是生活在水里的生物。\nCharacters: 物 https://traverse.link/Mandarin_Blueprint/生",
       "id": "level-40-sentences:7",
-      "characters": "物 生"
+      "characters": "生 物"
     },
     {
       "Chinese": "一名年轻人在四川发现了一件文物。",
@@ -83,7 +83,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%AD%A6%E6%A0%A1%E9%87%8C%E7%9A%84%E5%B0%8F%E5%AD%A9%E5%AD%90%E5%AF%B9%E8%BA%AB%E8%BE%B9%E7%9A%84%E4%BA%8B%E7%89%A9%E6%80%BB%E6%98%AF%E5%85%85%E6%BB%A1%E5%85%B4%E8%B6%A3-%E7%94%B7.mp3",
       "Raw Text": "学校里的小孩子对身边的事物总是充满兴趣。\nCharacters: 物 事",
       "id": "level-40-sentences:9",
-      "characters": "物 事"
+      "characters": "事 物"
     },
     {
       "Chinese": "孩子们可太喜欢去动物园玩了！",
@@ -92,7 +92,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%8F%AF%E5%A4%AA%E5%96%9C%E6%AC%A2%E5%8E%BB%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%8E%A9%E4%BA%86-%E5%A5%B3.mp3",
       "Raw Text": "孩子们可太喜欢去动物园玩了！\n用法 1 - zoo (MW: 个 gè)\nCharacters: https://traverse.link/Mandarin_Blueprint/园 动 物",
       "id": "level-40-sentences:10",
-      "characters": "园 动 物"
+      "characters": "动 物 园"
     },
     {
       "Chinese": "他们的交易时间是明天晚上。",
@@ -263,7 +263,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%BF%99%E9%87%8C%E6%98%AF%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%EF%BC%8C%E8%AF%B7%E4%B8%8D%E8%A6%81%E5%90%B8%E7%83%9F-%E7%94%B7.mp3",
       "Raw Text": "这里是公共场所，请不要吸烟。\n吸烟 xīyān - to smoke cigarettes\nCharacters: 公 场 https://traverse.link/Mandarin_Blueprint/共 https://traverse.link/Mandarin_Blueprint/所",
       "id": "level-40-sentences:29",
-      "characters": "公 场 共 所"
+      "characters": "公 共 场 所"
     },
     {
       "Chinese": "他刚表演完，全场发出了一片欢呼声。",
@@ -281,7 +281,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%9C%80%E5%90%8E%EF%BC%8C%E4%BB%96%E7%BB%88%E4%BA%8E%E5%88%86%E6%B8%85%E6%A5%9A%E5%AE%A2%E5%9C%BA%E4%B8%8E%E4%B8%BB%E5%9C%BA%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "最后，他终于分清楚客场与主场了。\n终于 zhōngyú - finally    清楚 qīngchu - clear, clearly, clarity\nCharacters: 主 场 https://traverse.link/Mandarin_Blueprint/客",
       "id": "level-40-sentences:31",
-      "characters": "主 场 客"
+      "characters": "客 场 主"
     },
     {
       "Chinese": "他当场就被人发现不是这家公司的工作人员。",
@@ -290,7 +290,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BB%96%E5%BD%93%E5%9C%BA%E5%B0%B1%E8%A2%AB%E4%BA%BA%E5%8F%91%E7%8E%B0%E4%B8%8D%E6%98%AF%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98-%E7%94%B7.mp3",
       "Raw Text": "他当场就被人发现不是这家公司的工作人员。\nCharacters: 场 当",
       "id": "level-40-sentences:32",
-      "characters": "场 当"
+      "characters": "当 场"
     },
     {
       "Chinese": "大家都不想面对这样一个丢人的场面。",
@@ -308,7 +308,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BA%BA%E4%BB%AC%E5%96%9C%E6%AC%A2%E5%90%83%E4%BA%86%E6%99%9A%E9%A5%AD%E4%BB%A5%E5%90%8E%E5%88%B0%E7%90%83%E5%9C%BA%E4%B8%8A%E8%BF%90%E5%8A%A8%E8%BF%90%E5%8A%A8-%E5%A5%B3.mp3",
       "Raw Text": "人们喜欢吃了晚饭以后到球场上运动运动。\n用法 1 - stadium, sports ground, court, pitch, field, golf course (MW: 个 gè, 处 chù)\nCharacters: 场 球",
       "id": "level-40-sentences:34",
-      "characters": "场 球"
+      "characters": "球 场"
     },
     {
       "Chinese": "体育场里面有各种球场。",
@@ -317,7 +317,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BD%93%E8%82%B2%E5%9C%BA%E9%87%8C%E9%9D%A2%E6%9C%89%E5%90%84%E7%A7%8D%E7%90%83%E5%9C%BA-%E5%A5%B3.mp3",
       "Raw Text": "体育场里面有各种球场。\n用法 1 - stadium (MW: 个 gè, 座 zuò)\nCharacters: https://traverse.link/Mandarin_Blueprint/体 场 https://traverse.link/Mandarin_Blueprint/育",
       "id": "level-40-sentences:35",
-      "characters": "体 场 育"
+      "characters": "体 育 场"
     },
     {
       "Chinese": "一开始这个超市的停车场是不用给钱的。",
@@ -326,7 +326,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%B8%80%E5%BC%80%E5%A7%8B%E8%BF%99%E4%B8%AA%E8%B6%85%E5%B8%82%E7%9A%84%E5%81%9C%E8%BD%A6%E5%9C%BA%E6%98%AF%E4%B8%8D%E7%94%A8%E7%BB%99%E9%92%B1%E7%9A%84-%E5%A5%B3.mp3",
       "Raw Text": "一开始这个超市的停车场是不用给钱的。\n用法 1 - parking lot, car park\nCharacters: https://traverse.link/Mandarin_Blueprint/车 场 https://traverse.link/Mandarin_Blueprint/停",
       "id": "level-40-sentences:36",
-      "characters": "车 场 停"
+      "characters": "停 车 场"
     },
     {
       "Chinese": "说话要注意场合。",
@@ -335,7 +335,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%AF%B4%E8%AF%9D%E8%A6%81%E6%B3%A8%E6%84%8F%E5%9C%BA%E5%90%88-%E5%A5%B3.mp3",
       "Raw Text": "说话要注意场合。\n用法 1 - situation, occasion, context, setting, location, venue\nCharacters: https://traverse.link/Mandarin_Blueprint/合 场",
       "id": "level-40-sentences:37",
-      "characters": "合 场"
+      "characters": "场 合"
     },
     {
       "Chinese": "这是个有意思的现象。",
@@ -380,7 +380,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%BE%88%E5%A4%9A%E4%BB%A5%E5%89%8D%E7%9A%84%E4%BA%BA%E7%9A%84%E6%83%B3%E6%B3%95%EF%BC%8C%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%8D%B4%E4%B8%8D%E8%83%BD%E6%8E%A5%E5%8F%97-%E5%A5%B3.mp3",
       "Raw Text": "很多以前的人的想法，现代人却不能接受。\n用法 1 - modern times, modern age, modern era\nCharacters: https://traverse.link/Mandarin_Blueprint/代 现",
       "id": "level-40-sentences:42",
-      "characters": "代 现"
+      "characters": "现 代"
     },
     {
       "Chinese": "我非常喜欢现代中国文化。",
@@ -389,7 +389,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%88%91%E9%9D%9E%E5%B8%B8%E5%96%9C%E6%AC%A2%E7%8E%B0%E4%BB%A3%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96-%E5%A5%B3.mp3",
       "Raw Text": "我非常喜欢现代中国文化。\n用法 1 - modern times, modern age, modern era\nCharacters: https://traverse.link/Mandarin_Blueprint/代 现",
       "id": "level-40-sentences:43",
-      "characters": "代 现"
+      "characters": "现 代"
     },
     {
       "Chinese": "近代的中国，有很多人都去外国读书。",
@@ -398,7 +398,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%BF%91%E4%BB%A3%E7%9A%84%E4%B8%AD%E5%9B%BD%EF%BC%8C%E6%9C%89%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%83%BD%E5%8E%BB%E5%A4%96%E5%9B%BD%E8%AF%BB%E4%B9%A6-%E5%A5%B3.mp3",
       "Raw Text": "近代的中国，有很多人都去外国读书。\n用法 1 - the not-very-distant past, modern times (excluding recent decades, which is 现代)\nCharacters: 代 https://traverse.link/Mandarin_Blueprint/近",
       "id": "level-40-sentences:44",
-      "characters": "代 近"
+      "characters": "近 代"
     },
     {
       "Chinese": "飞机的出现是近代的事。",
@@ -407,7 +407,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E9%A3%9E%E6%9C%BA%E7%9A%84%E5%87%BA%E7%8E%B0%E6%98%AF%E8%BF%91%E4%BB%A3%E7%9A%84%E4%BA%8B-%E5%A5%B3.mp3",
       "Raw Text": "飞机的出现是近代的事。\n用法 1 - the not-very-distant past, modern times (excluding recent decades, which is 现代)\nCharacters: 代 https://traverse.link/Mandarin_Blueprint/近",
       "id": "level-40-sentences:45",
-      "characters": "代 近"
+      "characters": "近 代"
     },
     {
       "Chinese": "现在的学生很喜欢穿古代的衣服。",
@@ -416,7 +416,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A6%E7%94%9F%E5%BE%88%E5%96%9C%E6%AC%A2%E7%A9%BF%E5%8F%A4%E4%BB%A3%E7%9A%84%E8%A1%A3%E6%9C%8D-%E5%A5%B3.mp3",
       "Raw Text": "现在的学生很喜欢穿古代的衣服。\n用法 1 - ancient times, olden times\nCharacters: 代 https://traverse.link/Mandarin_Blueprint/古",
       "id": "level-40-sentences:46",
-      "characters": "代 古"
+      "characters": "古 代"
     },
     {
       "Chinese": "在古代，一个男人有很多个太太是很正常的事情。",
@@ -425,7 +425,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%9C%A8%E5%8F%A4%E4%BB%A3%EF%BC%8C%E4%B8%80%E4%B8%AA%E7%94%B7%E4%BA%BA%E6%9C%89%E5%BE%88%E5%A4%9A%E4%B8%AA%E5%A4%AA%E5%A4%AA%E6%98%AF%E5%BE%88%E6%AD%A3%E5%B8%B8%E7%9A%84%E4%BA%8B%E6%83%85-%E5%A5%B3.mp3",
       "Raw Text": "在古代，一个男人有很多个太太是很正常的事情。\n用法 1 - ancient times, olden times\nCharacters: 代 https://traverse.link/Mandarin_Blueprint/古",
       "id": "level-40-sentences:47",
-      "characters": "代 古"
+      "characters": "古 代"
     },
     {
       "Chinese": "这些好的地方，我们要发扬; 不好的地方，我们要改正。",
@@ -488,7 +488,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BD%A0%E7%9F%A5%E9%81%93%E4%BB%96%E4%B8%8D%E4%BB%85%E6%98%AF%E4%B8%80%E4%BD%8D%E6%AD%8C%E6%89%8B%E8%80%8C%E4%B8%94%E8%BF%98%E6%98%AF%E4%B8%80%E5%90%8D%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%90%97-%E7%94%B7.mp3",
       "Raw Text": "你知道他不仅是一位歌手而且还是一名主持人吗？\nReview Flashcards\n不仅 bùjǐn - not only\nCharacters: https://traverse.link/Mandarin_Blueprint/主 https://traverse.link/Mandarin_Blueprint/人 持",
       "id": "level-40-sentences:54",
-      "characters": "主 人 持"
+      "characters": "主 持 人"
     },
     {
       "Chinese": "她们待我就像待自己的孩子一样好。",
@@ -533,7 +533,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%88%91%E6%9C%9F%E5%BE%85%E8%83%BD%E6%97%A9%E7%82%B9%E5%84%BF%E4%B8%8B%E7%8F%AD-%E7%94%B7.mp3",
       "Raw Text": "我期待能早点儿下班。\nReview Flashcards\nCharacters: 待 https://traverse.link/Mandarin_Blueprint/期",
       "id": "level-40-sentences:59",
-      "characters": "待 期"
+      "characters": "期 待"
     },
     {
       "Chinese": "我现在还有一点工作没有完成，你可以在门口等待我一会儿吗？",
@@ -551,7 +551,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%AF%8F%E6%AC%A1%E8%80%81%E5%B8%88%E7%BB%99%E7%9A%84%E4%BD%9C%E4%B8%9A%E9%83%BD%E5%BA%94%E8%AF%A5%E8%A2%AB%E8%AE%A4%E7%9C%9F%E5%AF%B9%E5%BE%85-%E7%94%B7.mp3",
       "Raw Text": "每次老师给的作业都应该被认真对待。\nReview Flashcards\n作业 zuòyè - homework\nCharacters: 待 https://traverse.link/Mandarin_Blueprint/对",
       "id": "level-40-sentences:61",
-      "characters": "待 对"
+      "characters": "对 待"
     },
     {
       "Chinese": "中国人都喜欢热情地接待外国朋友。",
@@ -569,7 +569,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%85%AB%E5%8D%81%E5%B9%B4%E4%BB%A3%E7%9A%84%E9%9F%B3%E4%B9%90-%E5%A5%B3.mp3",
       "Raw Text": "很多人喜欢八十年代的音乐。\nReview Flashcards\n用法 1 - a decade of a century (e.g. the Sixties), age, era, period (MW: 个)\nCharacters: https://traverse.link/Mandarin_Blueprint/代 https://traverse.link/Mandarin_Blueprint/年",
       "id": "level-40-sentences:63",
-      "characters": "代 年"
+      "characters": "年 代"
     },
     {
       "Chinese": "以前山里没吃没穿的年代已经过去了。",
@@ -578,7 +578,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BB%A5%E5%89%8D%E5%B1%B1%E9%87%8C%E6%B2%A1%E5%90%83%E6%B2%A1%E7%A9%BF%E7%9A%84%E5%B9%B4%E4%BB%A3%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%8E%BB%E4%BA%86-%E5%A5%B3.mp3",
       "Raw Text": "以前山里没吃没穿的年代已经过去了。\nReview Flashcards\n用法 1 - a decade of a century (e.g. the Sixties), age, era, period (MW: 个)\nCharacters: https://traverse.link/Mandarin_Blueprint/代 https://traverse.link/Mandarin_Blueprint/年",
       "id": "level-40-sentences:64",
-      "characters": "代 年"
+      "characters": "年 代"
     },
     {
       "Chinese": "少年强，国家才能强。",
@@ -587,7 +587,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%B0%91%E5%B9%B4%E5%BC%BA%EF%BC%8C%E5%9B%BD%E5%AE%B6%E6%89%8D%E8%83%BD%E5%BC%BA-%E5%A5%B3.mp3",
       "Raw Text": "少年强，国家才能强。\nReview Flashcards\n用法 1 - early youth, youngster, (literary) youth (generally younger than 青年)\nCharacters: 年 https://traverse.link/Mandarin_Blueprint/少",
       "id": "level-40-sentences:65",
-      "characters": "年 少"
+      "characters": "少 年"
     },
     {
       "Chinese": "少年不能经常看手机。",
@@ -596,7 +596,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%B0%91%E5%B9%B4%E4%B8%8D%E8%83%BD%E7%BB%8F%E5%B8%B8%E7%9C%8B%E6%89%8B%E6%9C%BA-%E5%A5%B3.mp3",
       "Raw Text": "少年不能经常看手机。\nReview Flashcards\n用法 1 - early youth, youngster, (literary) youth (generally younger than 青年)\nCharacters: 年 少",
       "id": "level-40-sentences:66",
-      "characters": "年 少"
+      "characters": "少 年"
     },
     {
       "Chinese": "青年是一个国家的明天。",
@@ -605,7 +605,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E9%9D%92%E5%B9%B4%E6%98%AF%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%98%8E%E5%A4%A9-%E5%A5%B3.mp3",
       "Raw Text": "青年是一个国家的明天。\nReview Flashcards\n用法 1 - youth, youthful years, young person, the young (generally older than 少年, early 20s included)\nCharacters: 年 https://traverse.link/Mandarin_Blueprint/青",
       "id": "level-40-sentences:67",
-      "characters": "年 青"
+      "characters": "青 年"
     },
     {
       "Chinese": "你知道吗，现在的青年是说的从十六岁到三十岁的人们。",
@@ -614,7 +614,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%90%97%EF%BC%8C%E7%8E%B0%E5%9C%A8%E7%9A%84%E9%9D%92%E5%B9%B4%E6%98%AF%E8%AF%B4%E7%9A%84%E4%BB%8E%E5%8D%81%E5%85%AD%E5%B2%81%E5%88%B0%E4%B8%89%E5%8D%81%E5%B2%81%E7%9A%84%E4%BA%BA%E4%BB%AC-%E5%A5%B3.mp3",
       "Raw Text": "你知道吗，现在的青年是说的从十六岁到三十岁的人们。\nReview Flashcards\n用法 1 - youth, youthful years, young person, the young (generally older than 少年, early 20s included)\nCharacters: 年 青",
       "id": "level-40-sentences:68",
-      "characters": "年 青"
+      "characters": "青 年"
     },
     {
       "Chinese": "每个青少年都有各种各样的想法。",
@@ -623,7 +623,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%AF%8F%E4%B8%AA%E9%9D%92%E5%B0%91%E5%B9%B4%E9%83%BD%E6%9C%89%E5%90%84%E7%A7%8D%E5%90%84%E6%A0%B7%E7%9A%84%E6%83%B3%E6%B3%95-%E5%A5%B3.mp3",
       "Raw Text": "每个青少年都有各种各样的想法。\nReview Flashcards\n用法 1 - adolescent, youth, teenager\nCharacters: 年 少 青",
       "id": "level-40-sentences:69",
-      "characters": "年 少 青"
+      "characters": "青 少 年"
     },
     {
       "Chinese": "青少年是国家的未来。",
@@ -632,7 +632,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E9%9D%92%E5%B0%91%E5%B9%B4%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%9C%AA%E6%9D%A5-%E5%A5%B3.mp3",
       "Raw Text": "青少年是国家的未来。\nReview Flashcards\n用法 1 - adolescent, youth, teenager\nCharacters: 年 少 青",
       "id": "level-40-sentences:70",
-      "characters": "年 少 青"
+      "characters": "青 少 年"
     },
     {
       "Chinese": "人到了中年就会常常生病。",
@@ -641,7 +641,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BA%BA%E5%88%B0%E4%BA%86%E4%B8%AD%E5%B9%B4%E5%B0%B1%E4%BC%9A%E5%B8%B8%E5%B8%B8%E7%94%9F%E7%97%85-%E5%A5%B3.mp3",
       "Raw Text": "人到了中年就会常常生病。\nReview Flashcards\n用法 1 - middle age\nCharacters: 年 https://traverse.link/Mandarin_Blueprint/中",
       "id": "level-40-sentences:71",
-      "characters": "年 中"
+      "characters": "中 年"
     },
     {
       "Chinese": "他已经是中年人了，但还是一个人。",
@@ -650,7 +650,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BB%96%E5%B7%B2%E7%BB%8F%E6%98%AF%E4%B8%AD%E5%B9%B4%E4%BA%BA%E4%BA%86%EF%BC%8C%E4%BD%86%E8%BF%98%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA-%E5%A5%B3.mp3",
       "Raw Text": "他已经是中年人了，但还是一个人。\nReview Flashcards\n用法 1 - middle age\nCharacters: 年 中",
       "id": "level-40-sentences:72",
-      "characters": "年 中"
+      "characters": "中 年"
     },
     {
       "Chinese": "老年人走路很慢，但是他就不一样。",
@@ -659,7 +659,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%80%81%E5%B9%B4%E4%BA%BA%E8%B5%B0%E8%B7%AF%E5%BE%88%E6%85%A2%EF%BC%8C%E4%BD%86%E6%98%AF%E4%BB%96%E5%B0%B1%E4%B8%8D%E4%B8%80%E6%A0%B7-%E5%A5%B3.mp3",
       "Raw Text": "老年人走路很慢，但是他就不一样。\nReview Flashcards\n用法 1 - elderly, old age, autumn of one's years\nCharacters: 年 https://traverse.link/Mandarin_Blueprint/老 人",
       "id": "level-40-sentences:73",
-      "characters": "年 老 人"
+      "characters": "老 年 人"
     },
     {
       "Chinese": "老年人应该多运动。",
@@ -668,7 +668,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%80%81%E5%B9%B4%E4%BA%BA%E5%BA%94%E8%AF%A5%E5%A4%9A%E8%BF%90%E5%8A%A8-%E5%A5%B3.mp3",
       "Raw Text": "老年人应该多运动。\nReview Flashcards\n用法 1 - elderly, old age, autumn of one's years\nCharacters: 年 https://traverse.link/Mandarin_Blueprint/老 人",
       "id": "level-40-sentences:74",
-      "characters": "年 老 人"
+      "characters": "老 年 人"
     },
     {
       "Chinese": "今年是2021年，但是前年发生的事情我已经不记得了。",
@@ -677,7 +677,7 @@
       "Audio 2": "",
       "Raw Text": "今年是2021年，但是前年发生的事情我已经不记得了。\nReview Flashcards\n用法 1 - the year before last\nCharacters: https://traverse.link/Mandarin_Blueprint/前 年",
       "id": "level-40-sentences:75",
-      "characters": "前 年"
+      "characters": "年 前"
     },
     {
       "Chinese": "前年我去了南美洲，明年我还要去。",
@@ -713,7 +713,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%BF%87%E5%B9%B4%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%BC%9A%E7%A9%BF%E7%BA%A2%E8%89%B2%E7%9A%84%E8%A1%A3%E6%9C%8D-%E5%A5%B3.mp3",
       "Raw Text": "过年的时候，大家都会穿红色的衣服。\nReview Flashcards\n用法 1 - to celebrate the Chinese New Year\nCharacters: 年 https://traverse.link/Mandarin_Blueprint/过",
       "id": "level-40-sentences:79",
-      "characters": "年 过"
+      "characters": "过 年"
     },
     {
       "Chinese": "过年会有很多好吃的。",
@@ -722,7 +722,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%BF%87%E5%B9%B4%E4%BC%9A%E6%9C%89%E5%BE%88%E5%A4%9A%E5%A5%BD%E5%90%83%E7%9A%84-%E5%A5%B3.mp3",
       "Raw Text": "过年会有很多好吃的。\nReview Flashcards\n用法 1 - to celebrate the Chinese New Year\nCharacters: 年 https://traverse.link/Mandarin_Blueprint/过",
       "id": "level-40-sentences:80",
-      "characters": "年 过"
+      "characters": "过 年"
     },
     {
       "Chinese": "今天是我和我太太的第五个结婚周年日。",
@@ -731,7 +731,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BB%8A%E5%A4%A9%E6%98%AF%E6%88%91%E5%92%8C%E6%88%91%E5%A4%AA%E5%A4%AA%E7%9A%84%E7%AC%AC%E4%BA%94%E4%B8%AA%E7%BB%93%E5%A9%9A%E5%91%A8%E5%B9%B4%E6%97%A5-%E5%A5%B3.mp3",
       "Raw Text": "今天是我和我太太的第五个结婚周年日。\nReview Flashcards\n用法 1 - anniversary, annual\nCharacters: 年 https://traverse.link/Mandarin_Blueprint/周",
       "id": "level-40-sentences:81",
-      "characters": "年 周"
+      "characters": "周 年"
     },
     {
       "Chinese": "明天是我的公司成立三周年。",
@@ -740,7 +740,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%98%8E%E5%A4%A9%E6%98%AF%E6%88%91%E7%9A%84%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B%E4%B8%89%E5%91%A8%E5%B9%B4-%E5%A5%B3.mp3",
       "Raw Text": "明天是我的公司成立三周年。\nReview Flashcards\n用法 1 - anniversary, annual\nCharacters: 年 周",
       "id": "level-40-sentences:82",
-      "characters": "年 周"
+      "characters": "周 年"
     },
     {
       "Chinese": "你上周的工作做好了吗？",
@@ -767,7 +767,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%B8%8B%E5%91%A8%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%8E%BB%E6%97%85%E6%B8%B8%E5%90%A7-%E5%A5%B3.mp3",
       "Raw Text": "下周我们一起去旅游吧？\nReview Flashcards\n用法 1 - next week\nCharacters: 周 https://traverse.link/Mandarin_Blueprint/下",
       "id": "level-40-sentences:85",
-      "characters": "周 下"
+      "characters": "下 周"
     },
     {
       "Chinese": "下周的天气很好，可以去外面玩。",
@@ -776,7 +776,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%B8%8B%E5%91%A8%E7%9A%84%E5%A4%A9%E6%B0%94%E5%BE%88%E5%A5%BD%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%8E%BB%E5%A4%96%E9%9D%A2%E7%8E%A9-%E5%A5%B3.mp3",
       "Raw Text": "下周的天气很好，可以去外面玩。\nReview Flashcards\n用法 1 - next week\nCharacters: 周 https://traverse.link/Mandarin_Blueprint/下",
       "id": "level-40-sentences:86",
-      "characters": "周 下"
+      "characters": "下 周"
     },
     {
       "Chinese": "这个城市全年都有很多游客来这里旅游。",
@@ -812,7 +812,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%9C%A8%E5%AD%A6%E6%A0%A1%E8%A7%81%E5%88%B0%E8%80%81%E5%B8%88%E7%9A%84%E6%97%B6%E5%80%99%E9%9C%80%E8%A6%81%E5%BE%AE%E7%AC%91-%E7%94%B7.mp3",
       "Raw Text": "在学校见到老师的时候需要微笑着和老师打招呼。\nReview Flashcards\n打招呼 dǎzhāohū - greet sb; say hello\nCharacters: https://traverse.link/Mandarin_Blueprint/笑 https://traverse.link/Mandarin_Blueprint/微",
       "id": "level-40-sentences:90",
-      "characters": "笑 微"
+      "characters": "微 笑"
     },
     {
       "Chinese": "她终于成为微软公司的员工了。",
@@ -821,7 +821,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/rec1569917682_1466670209326.mp3",
       "Raw Text": "她终于成为微软公司的员工了。\nReview Flashcards\n终于 zhōngyú - finally\nCharacters: https://traverse.link/Mandarin_Blueprint/软 https://traverse.link/Mandarin_Blueprint/微",
       "id": "level-40-sentences:91",
-      "characters": "软 微"
+      "characters": "微 软"
     },
     {
       "Chinese": "拍照片的时候你可以微微地笑一下吗？",
@@ -839,7 +839,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%BE%AE%E4%BF%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%9D%9E%E5%B8%B8%E6%B5%81%E8%A1%8C-%E7%94%B7.mp3",
       "Raw Text": "微信在中国非常流行，就算是外国人也喜欢用微信。\nReview Flashcards\nCharacters: https://traverse.link/Mandarin_Blueprint/信 微",
       "id": "level-40-sentences:93",
-      "characters": "信 微"
+      "characters": "微 信"
     },
     {
       "Chinese": "据我看，明天可能要下雨。",
@@ -857,7 +857,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%9C%89%E6%95%B0%E6%8D%AE%E8%A1%A8%E6%98%8E%EF%BC%8C%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E7%94%9F%E7%89%A9%E6%AD%A3%E5%9C%A8%E5%87%8F%E5%B0%91-%E7%94%B7.mp3",
       "Raw Text": "有数据表明，太平洋的生物正在减少。\nReview Flashcards\n减少 jiǎnshǎo - reduce; decrease\nCharacters: https://traverse.link/Mandarin_Blueprint/据 https://traverse.link/Mandarin_Blueprint/数",
       "id": "level-40-sentences:95",
-      "characters": "据 数"
+      "characters": "数 据"
     },
     {
       "Chinese": "据说如果小孩子白天玩火，晚上就会小便在自己床上。",
@@ -866,7 +866,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%8D%AE%E8%AF%B4%E5%A6%82%E6%9E%9C%E5%B0%8F%E5%AD%A9%E5%AD%90%E7%99%BD%E5%A4%A9%E7%8E%A9%E7%81%AB-%E7%94%B7.mp3",
       "Raw Text": "据说如果小孩子白天玩火，晚上就会小便在自己床上。\nReview Flashcards\nCharacters: https://traverse.link/Mandarin_Blueprint/说 据",
       "id": "level-40-sentences:96",
-      "characters": "说 据"
+      "characters": "据 说"
     },
     {
       "Chinese": "草地占据了这个公园的大部分空间。",
@@ -875,7 +875,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%8D%89%E5%9C%B0%E5%8D%A0%E6%8D%AE%E4%BA%86%E8%BF%99%E4%B8%AA%E5%85%AC%E5%9B%AD%E7%9A%84%E5%A4%A7%E9%83%A8%E5%88%86%E7%A9%BA%E9%97%B4-%E7%94%B7.mp3",
       "Raw Text": "草地占据了这个公园的大部分空间。\nReview Flashcards\n大部分 dàbùfen - the larger part of, the majority of\nCharacters: 据 https://traverse.link/Mandarin_Blueprint/占",
       "id": "level-40-sentences:97",
-      "characters": "据 占"
+      "characters": "占 据"
     },
     {
       "Chinese": "你能投进几个球，我就给你几块钱。",
@@ -947,7 +947,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BD%A0%E5%96%9C%E6%AC%A2%E5%93%AA%E4%B8%AA%E6%BC%94%E5%91%98%EF%BC%8C%E5%B0%B1%E4%B8%BA%E8%BF%99%E4%B8%AA%E6%BC%94%E5%91%98%E6%8A%95%E4%B8%80%E7%A5%A8%E5%90%A7-%E7%94%B7.mp3",
       "Raw Text": "你喜欢哪个演员，就为这个演员投一票吧！\nReview Flashcards\nCharacters: https://traverse.link/Mandarin_Blueprint/票 投",
       "id": "level-40-sentences:105",
-      "characters": "票 投"
+      "characters": "投 票"
     },
     {
       "Chinese": "这个景点乱收钱，我们去哪儿投诉呢？",
@@ -992,7 +992,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%8C%87%E5%87%BA%E4%BA%86%E6%88%91%E7%9A%84%E7%BC%BA%E7%82%B9%EF%BC%8C%E6%88%91%E4%B8%80%E5%AE%9A%E4%BC%9A%E6%8E%A5%E5%8F%97%E7%9A%84-%E7%94%B7.mp3",
       "Raw Text": "如果你指出了我的缺点，我一定会接受的。\nReview Flashcards\n缺点 quēdiǎn - weakness\nCharacters: https://traverse.link/Mandarin_Blueprint/出 指",
       "id": "level-40-sentences:110",
-      "characters": "出 指"
+      "characters": "指 出"
     },
     {
       "Chinese": "最近这个指数正在上升。",
@@ -1001,7 +1001,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%9C%80%E8%BF%91%E8%BF%99%E4%B8%AA%E6%8C%87%E6%95%B0%E6%AD%A3%E5%9C%A8%E4%B8%8A%E5%8D%87-%E7%94%B7.mp3",
       "Raw Text": "最近这个指数正在上升。\nReview Flashcards\n上升 shàngshēng - rise; increase\nCharacters: 数 指",
       "id": "level-40-sentences:111",
-      "characters": "数 指"
+      "characters": "指 数"
     },
     {
       "Chinese": "医生指示病人要多喝热水。",
@@ -1028,7 +1028,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%90%83%E9%A5%AD%E6%97%B6%E7%94%A8%E7%9A%84%E6%98%AF%E7%AD%B7%E5%AD%90%EF%BC%8C%E4%B8%8D%E6%98%AF%E6%89%8B%E6%8C%87-%E7%94%B7.mp3",
       "Raw Text": "在中国吃饭时用的是筷子，不是手指。\nReview Flashcards\n筷子 kuàizi - chopsticks\nCharacters: 指 https://traverse.link/Mandarin_Blueprint/手",
       "id": "level-40-sentences:114",
-      "characters": "指 手"
+      "characters": "手 指"
     },
     {
       "Chinese": "老板指定我和他去国外开会。",
@@ -1091,7 +1091,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%88%91%E7%94%9F%E7%97%85%E4%BA%86%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%B8%8D%E8%83%BD%E5%92%8C%E4%BD%A0%E4%B8%80%E8%B5%B7%E5%9B%9E%E5%9B%BD%E4%BA%86-%E5%A5%B3.mp3",
       "Raw Text": "我生病了，可能不能和你一起回国了。\nReview Flashcards\n用法 1 - to return to one's home country\nCharacters: 国 https://traverse.link/Mandarin_Blueprint/回",
       "id": "level-40-sentences:121",
-      "characters": "国 回"
+      "characters": "回 国"
     },
     {
       "Chinese": "我妈妈在国外工作，很久没有回国了。",
@@ -1226,7 +1226,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%88%91%E7%9A%84%E5%A7%90%E5%A7%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E5%B7%A5%E4%BD%9C%EF%BC%8C%E5%A5%B9%E6%98%AF%E4%B8%80%E5%90%8D%E6%8A%A4%E5%A3%AB-%E7%94%B7.mp3",
       "Raw Text": "我的姐姐在医院工作，她是一名护士。\nnurse\nCharacters: https://traverse.link/Mandarin_Blueprint/士 护",
       "id": "level-40-sentences:136",
-      "characters": "士 护"
+      "characters": "护 士"
     },
     {
       "Chinese": "这个东西被小猫压扁了。",
@@ -1379,7 +1379,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%8A%B1%E5%9B%AD%E9%87%8C%E9%81%8D%E5%9C%B0%E9%83%BD%E6%98%AF%E7%BE%8E%E4%B8%BD%E7%9A%84%E8%8A%B1%E5%84%BF-%E7%94%B7.mp3",
       "Raw Text": "花园里遍地都是美丽的花儿。\n美丽 měilì - beautiful\nCharacters: https://traverse.link/Mandarin_Blueprint/地 遍",
       "id": "level-40-sentences:153",
-      "characters": "地 遍"
+      "characters": "遍 地"
     },
     {
       "Chinese": "看完这篇文章，我们可以交流一下。",
@@ -1415,7 +1415,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E9%99%A4%E4%BA%86%E9%AA%97%E4%BA%BA%EF%BC%8C%E4%BD%A0%E8%BF%98%E4%BC%9A%E5%81%9A%E4%BB%80%E4%B9%88-%E7%94%B7.mp3",
       "Raw Text": "除了骗人，你还会做什么？\nCharacters: 人 骗",
       "id": "level-40-sentences:157",
-      "characters": "人 骗"
+      "characters": "骗 人"
     },
     {
       "Chinese": "我们生活在最新的时代。",
@@ -1514,7 +1514,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%9B%A0%E4%B8%BA%E4%BB%96%E9%95%BF%E6%9C%9F%E7%9C%8B%E6%89%8B%E6%9C%BA%EF%BC%8C%E6%89%80%E4%BB%A5%E4%BB%96%E7%9A%84%E5%A4%B4%E5%BE%88%E7%97%9B-%E5%A5%B3.mp3",
       "Raw Text": "因为他长期看手机，所以他的头很痛。\n用法 1 - long term, long time, long range (of a forecast)\nCharacters: 期 https://traverse.link/Mandarin_Blueprint/长",
       "id": "level-40-sentences:168",
-      "characters": "期 长"
+      "characters": "长 期"
     },
     {
       "Chinese": "我长期运动，现在我比以前美了很多。",
@@ -1523,7 +1523,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%88%91%E9%95%BF%E6%9C%9F%E8%BF%90%E5%8A%A8%EF%BC%8C%E7%8E%B0%E5%9C%A8%E6%88%91%E6%AF%94%E4%BB%A5%E5%89%8D%E7%BE%8E%E4%BA%86%E5%BE%88%E5%A4%9A-%E5%A5%B3.mp3",
       "Raw Text": "我长期运动，现在我比以前美了很多。\n用法 1 - long term, long time, long range (of a forecast)\nCharacters: 期 https://traverse.link/Mandarin_Blueprint/长",
       "id": "level-40-sentences:169",
-      "characters": "期 长"
+      "characters": "长 期"
     },
     {
       "Chinese": "我刚开始学中文，短期内我还不会写汉字。",
@@ -1532,7 +1532,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%88%91%E5%88%9A%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B8%AD%E6%96%87%EF%BC%8C%E7%9F%AD%E6%9C%9F%E5%86%85%E6%88%91%E8%BF%98%E4%B8%8D%E4%BC%9A%E5%86%99%E6%B1%89%E5%AD%97-%E5%A5%B3.mp3",
       "Raw Text": "我刚开始学中文，短期内我还不会写汉字。\n用法 1 - short term, short-term\nCharacters: 期 https://traverse.link/Mandarin_Blueprint/短",
       "id": "level-40-sentences:170",
-      "characters": "期 短"
+      "characters": "短 期"
     },
     {
       "Chinese": "这个病短期内不会好。",
@@ -1541,7 +1541,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%BF%99%E4%B8%AA%E7%97%85%E7%9F%AD%E6%9C%9F%E5%86%85%E4%B8%8D%E4%BC%9A%E5%A5%BD-%E5%A5%B3.mp3",
       "Raw Text": "这个病短期内不会好。\n用法 1 - short term, short-term\nCharacters: 期 短",
       "id": "level-40-sentences:171",
-      "characters": "期 短"
+      "characters": "短 期"
     },
     {
       "Chinese": "妈妈定期去医院看望奶奶。",
@@ -1604,7 +1604,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BC%91%E6%81%AF%E6%97%A5%E6%9C%9F%E9%97%B4%EF%BC%8C%E5%BE%88%E5%A4%9A%E5%8C%BB%E7%94%9F%E8%BF%98%E6%98%AF%E8%A6%81%E4%B8%8A%E7%8F%AD-%E5%A5%B3.mp3",
       "Raw Text": "休息日期间，很多医生还是要上班。\n用法 1 - period of time, time, time period, period (MW: 个)\nCharacters: https://traverse.link/Mandarin_Blueprint/间 期",
       "id": "level-40-sentences:178",
-      "characters": "间 期"
+      "characters": "期 间"
     },
     {
       "Chinese": "旅游期间，他的手机不会开机。",
@@ -1613,7 +1613,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%97%85%E6%B8%B8%E6%9C%9F%E9%97%B4%EF%BC%8C%E4%BB%96%E7%9A%84%E6%89%8B%E6%9C%BA%E4%B8%8D%E4%BC%9A%E5%BC%80%E6%9C%BA-%E5%A5%B3.mp3",
       "Raw Text": "旅游期间，他的手机不会开机。\n用法 1 - period of time, time, time period, period (MW: 个)\nCharacters: https://traverse.link/Mandarin_Blueprint/间 期",
       "id": "level-40-sentences:179",
-      "characters": "间 期"
+      "characters": "期 间"
     },
     {
       "Chinese": "银行卡过期了可以再办。",
@@ -1775,7 +1775,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%90%83%E5%AE%8C%E9%A5%AD%E4%BB%A5%E5%90%8E%E4%B8%8D%E8%A6%81%E8%B7%91%E6%AD%A5%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B8%B8%E8%AF%86-%E5%A5%B3.mp3",
       "Raw Text": "吃完饭以后不要跑步，这是一个常识。\n用法 1 - common sense, general knowledge MW: 门 mén\nCharacters: https://traverse.link/Mandarin_Blueprint/识 常",
       "id": "level-40-sentences:197",
-      "characters": "识 常"
+      "characters": "常 识"
     },
     {
       "Chinese": "你知道中国的金木水火土这个五行常识吗？",
@@ -1784,7 +1784,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%87%91%E6%9C%A8%E6%B0%B4%E7%81%AB%E5%9C%9F%E8%BF%99%E4%B8%AA%E4%BA%94%E8%A1%8C%E5%B8%B8%E8%AF%86%E5%90%97-%E5%A5%B3.mp3",
       "Raw Text": "你知道中国的金木水火土这个五行常识吗？\n用法 1 - common sense, general knowledge MW: 门 mén\nCharacters: https://traverse.link/Mandarin_Blueprint/识 常",
       "id": "level-40-sentences:198",
-      "characters": "识 常"
+      "characters": "常 识"
     },
     {
       "Chinese": "小孩子生病是一件很常见的事情，不要担心。",
@@ -1793,7 +1793,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%B0%8F%E5%AD%A9%E5%AD%90%E7%94%9F%E7%97%85%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E5%B8%B8%E8%A7%81%E7%9A%84%E4%BA%8B%E6%83%85%EF%BC%8C%E4%B8%8D%E8%A6%81%E6%8B%85%E5%BF%83-%E5%A5%B3.mp3",
       "Raw Text": "小孩子生病是一件很常见的事情，不要担心。\n用法 1 - commonly seen, common, to see sth frequently\nCharacters: https://traverse.link/Mandarin_Blueprint/见 常",
       "id": "level-40-sentences:199",
-      "characters": "见 常"
+      "characters": "常 见"
     },
     {
       "Chinese": "一边走路，一边看手机变得很常见了。",
@@ -1802,7 +1802,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E4%B8%80%E8%BE%B9%E8%B5%B0%E8%B7%AF%EF%BC%8C%E4%B8%80%E8%BE%B9%E7%9C%8B%E6%89%8B%E6%9C%BA%E5%8F%98%E5%BE%97%E5%BE%88%E5%B8%B8%E8%A7%81%E4%BA%86-%E5%A5%B3.mp3",
       "Raw Text": "一边走路，一边看手机变得很常见了。\n用法 1 - commonly seen, common, to see sth frequently\nCharacters: https://traverse.link/Mandarin_Blueprint/见 常",
       "id": "level-40-sentences:200",
-      "characters": "见 常"
+      "characters": "常 见"
     },
     {
       "Chinese": "常用的东西就放在经常可以拿到的地方吧。",
@@ -1811,7 +1811,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%B8%B8%E7%94%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%B0%B1%E6%94%BE%E5%9C%A8%E7%BB%8F%E5%B8%B8%E5%8F%AF%E4%BB%A5%E6%8B%BF%E5%88%B0%E7%9A%84%E5%9C%B0%E6%96%B9%E5%90%A7-%E5%A5%B3.mp3",
       "Raw Text": "常用的东西就放在经常可以拿到的地方吧。\n用法 1 - in common usage\nCharacters: https://traverse.link/Mandarin_Blueprint/用 常",
       "id": "level-40-sentences:201",
-      "characters": "用 常"
+      "characters": "常 用"
     },
     {
       "Chinese": "这台电动车我不常用，送给你吧。",
@@ -1820,7 +1820,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E8%BF%99%E5%8F%B0%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%88%91%E4%B8%8D%E5%B8%B8%E7%94%A8%EF%BC%8C%E9%80%81%E7%BB%99%E4%BD%A0%E5%90%A7-%E5%A5%B3.mp3",
       "Raw Text": "这台电动车我不常用，送给你吧。\n用法 1 - in common usage\nCharacters: https://traverse.link/Mandarin_Blueprint/用 常",
       "id": "level-40-sentences:202",
-      "characters": "用 常"
+      "characters": "常 用"
     },
     {
       "Chinese": "往往很多事和我们想的不一样。",
@@ -1865,7 +1865,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E5%BC%80%E5%85%AC%E5%8F%B8%E9%9C%80%E8%A6%81%E5%8A%9E%E8%90%A5%E4%B8%9A%E6%89%A7%E7%85%A7-%E5%A5%B3.mp3",
       "Raw Text": "开公司需要办营业执照。\n用法 1 - license, permit\nCharacters: 照 https://traverse.link/Mandarin_Blueprint/执",
       "id": "level-40-sentences:207",
-      "characters": "照 执"
+      "characters": "执 照"
     },
     {
       "Chinese": "没有开车的执照是不能开车的。",
@@ -1874,7 +1874,7 @@
       "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL40-%E6%B2%A1%E6%9C%89%E5%BC%80%E8%BD%A6%E7%9A%84%E6%89%A7%E7%85%A7%E6%98%AF%E4%B8%8D%E8%83%BD%E5%BC%80%E8%BD%A6%E7%9A%84-%E5%A5%B3.mp3",
       "Raw Text": "没有开车的执照是不能开车的。\n用法 1 - license, permit\nCharacters: 照 https://traverse.link/Mandarin_Blueprint/执",
       "id": "level-40-sentences:208",
-      "characters": "照 执"
+      "characters": "执 照"
     },
     {
       "Chinese": "难道他们不是在约会吗？",

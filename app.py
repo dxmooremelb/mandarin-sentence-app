@@ -368,6 +368,27 @@ def write_offline_manifest(output_dir: Path = STATIC_DATA_DIR) -> dict[str, int 
     return {"assets": len(deduped), "output": str(OFFLINE_MANIFEST_PATH)}
 
 
+def fix_characters_in_cards(cards: list[dict[str, str]]) -> int:
+    """Reorder characters field to match first-appearance order in Chinese text."""
+    fixed = 0
+    for card in cards:
+        chinese = card.get("Chinese", "")
+        chars_field = card.get("characters", "")
+        if not chars_field:
+            continue
+        chars_set = set(chars_field.replace(" ", ""))
+        seen = set()
+        ordered = []
+        for ch in chinese:
+            if ch.strip() and ch in chars_set and ch not in seen:
+                seen.add(ch)
+                ordered.append(ch)
+        new_chars = " ".join(ordered)
+        if card["characters"] != new_chars:
+            card["characters"] = new_chars
+            fixed += 1
+    return fixed
+
 def export_static_site(folder: Path, output_dir: Path = STATIC_DATA_DIR) -> dict[str, int | str]:
     output_dir.mkdir(parents=True, exist_ok=True)
     levels_dir = output_dir / "levels"
@@ -376,10 +397,12 @@ def export_static_site(folder: Path, output_dir: Path = STATIC_DATA_DIR) -> dict
     exported_levels: list[dict[str, str | int]] = []
     exported_level_ids: set[str] = set()
     card_count = 0
+    total_char_fixes = 0
     for level in list_levels(folder):
         level_id = str(level["id"])
         exported_level_ids.add(level_id)
         cards = [static_card(card) for card in read_spreadsheet(Path(str(level["file"])), level_id)]
+        total_char_fixes += fix_characters_in_cards(cards)
         card_count += len(cards)
         level_payload = {
             "level": level_id,
@@ -416,6 +439,7 @@ def export_static_site(folder: Path, output_dir: Path = STATIC_DATA_DIR) -> dict
     return {
         "levels": len(exported_levels),
         "cards": card_count,
+        "charactersFixed": total_char_fixes,
         "output": str(output_dir),
         "offlineAssets": int(offline["assets"]),
     }
