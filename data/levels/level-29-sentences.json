@@ -7,24 +7,20 @@
     {
       "Chinese": "今天我们晚点下班。",
       "English": "Today we will get off work a little later.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0001-audio-1-6e002c67e3.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0001-audio-2-e2cccae8c0.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%8A%E5%A4%A9%E6%88%91%E4%BB%AC%E6%99%9A%E7%82%B9%E4%B8%8B%E7%8F%AD-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%8A%E5%A4%A9%E6%88%91%E4%BB%AC%E6%99%9A%E7%82%B9%E4%B8%8B%E7%8F%AD-%E7%94%B7.mp3",
       "Raw Text": "今天我们晚点下班。\nToday we will get off work a little later.\n\n1. late\n\n‎\n\n‎\n\n    \n\n\nCharacters: 晚\n\n\n点\n",
       "id": "level-29-sentences:1",
-      "characters": "晚 点",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "晚 点"
     },
     {
       "Chinese": "这么晚？没有早一点的票了吗？",
       "English": "This late? Are there no earlier tickets?",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0002-audio-1-d9f84031c9.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0002-audio-2-c5247a9c9c.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E4%B9%88%E6%99%9A%EF%BC%9F%E6%B2%A1%E6%9C%89%E6%97%A9%E4%B8%80%E7%82%B9%E7%9A%84%E7%A5%A8%E4%BA%86%E5%90%97-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E4%B9%88%E6%99%9A%EF%BC%9F%E6%B2%A1%E6%9C%89%E6%97%A9%E4%B8%80%E7%82%B9%E7%9A%84%E7%A5%A8%E4%BA%86%E5%90%97-%E7%94%B7.mp3",
       "Raw Text": "这么晚？没有早一点的票了吗？\nThis late? Are there no earlier tickets?\n\n1. late\n\n‎\n\n票 piào - ticket\n\n‎\n\n    \n\n\nCharacters: 晚\n",
       "id": "level-29-sentences:2",
-      "characters": "晚",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "晚"
     },
     {
       "Chinese": "你吃完晚饭以后就去刷牙。",
@@ -38,935 +34,767 @@
     {
       "Chinese": "我们今天晚上加班。",
       "English": "We are working overtime tonight.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0004-audio-1-b0bf4a3fe3.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0004-audio-2-11808f991c.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E4%BB%AC%E4%BB%8A%E5%A4%A9%E6%99%9A%E4%B8%8A%E5%8A%A0%E7%8F%AD-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E4%BB%AC%E4%BB%8A%E5%A4%A9%E6%99%9A%E4%B8%8A%E5%8A%A0%E7%8F%AD-%E7%94%B7.mp3",
       "Raw Text": "我们今天晚上加班。\nWe are working overtime tonight.\n\n1. evening, nighttime\n\n‎\n\n‎\n\n    \n\n\nCharacters: 晚\n\n\n上\n",
       "id": "level-29-sentences:4",
-      "characters": "晚 上",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "晚 上"
     },
     {
       "Chinese": "爷爷明天要搬家。",
       "English": "Grandpa is moving tomorrow.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0005-audio-1-2f0f50f0ad.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0005-audio-2-9c08dbac54.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E7%88%B7%E7%88%B7%E6%98%8E%E5%A4%A9%E8%A6%81%E6%90%AC%E5%AE%B6-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E7%88%B7%E7%88%B7%E6%98%8E%E5%A4%A9%E8%A6%81%E6%90%AC%E5%AE%B6-%E7%94%B7.mp3",
       "Raw Text": "爷爷明天要搬家。\nGrandpa is moving tomorrow.\n\n1. home\n\n‎\n\n爷爷 yéye - paternal grandfather (spoken)  搬 bān - to move; to transport\n\n‎\n\n    \n\n\nCharacters: 家\n",
       "id": "level-29-sentences:5",
-      "characters": "家",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "家"
     },
     {
       "Chinese": "家里来了几个小朋友，他们都是同一个小学的学生。",
       "English": "A few children came to our house; they are all students from the same elementary school.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0006-audio-1-4acca8685f.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0006-audio-2-253ed115ab.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%AE%B6%E9%87%8C%E6%9D%A5%E4%BA%86%E5%87%A0%E4%B8%AA%E5%B0%8F%E6%9C%8B%E5%8F%8B%EF%BC%8C%E4%BB%96%E4%BB%AC%E9%83%BD%E6%98%AF%E5%90%8C%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%AD%A6%E7%94%9F-%E7%94%B7.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%AE%B6%E9%87%8C%E6%9D%A5%E4%BA%86%E5%87%A0%E4%B8%AA%E5%B0%8F%E6%9C%8B%E5%8F%8B%EF%BC%8C%E4%BB%96%E4%BB%AC%E9%83%BD%E6%98%AF%E5%90%8C%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A6%E7%9A%84%E5%AD%A6%E7%94%9F-%E5%A5%B3.mp3",
       "Raw Text": "家里来了几个小朋友，他们都是同一个小学的学生。\nA few children came to our house; they are all students from the same elementary school.\n\nhome\n\n‎\n\n‎\n\n    \n\n\nCharacters: 家\n\n\n里\n",
       "id": "level-29-sentences:6",
-      "characters": "家 里",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "家 里"
     },
     {
       "Chinese": "大家都觉得她的帽子很美。",
       "English": "Everyone thinks her hat is very beautiful.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0007-audio-1-4dbc381680.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0007-audio-2-a70f2f1f48.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%A7%89%E5%BE%97%E5%A5%B9%E7%9A%84%E5%B8%BD%E5%AD%90%E5%BE%88%E7%BE%8E-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%A7%89%E5%BE%97%E5%A5%B9%E7%9A%84%E5%B8%BD%E5%AD%90%E5%BE%88%E7%BE%8E-%E7%94%B7.mp3",
       "Raw Text": "大家都觉得她的帽子很美。\nEveryone thinks her hat is very beautiful.\n\n1. everyone\n\n‎\n\n帽子 màozi - hat; cap\n\n‎\n\n    \n\n\nCharacters: 家\n\n\n大\n",
       "id": "level-29-sentences:7",
-      "characters": "家 大",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "大 家"
     },
     {
       "Chinese": "今天晚上回家吃晚饭。",
       "English": "Tonight, come home to have dinner.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0008-audio-1-f448648796.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0008-audio-2-395166bd1e.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%8A%E5%A4%A9%E6%99%9A%E4%B8%8A%E5%9B%9E%E5%AE%B6%E5%90%83%E6%99%9A%E9%A5%AD-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%8A%E5%A4%A9%E6%99%9A%E4%B8%8A%E5%9B%9E%E5%AE%B6%E5%90%83%E6%99%9A%E9%A5%AD-%E7%94%B7.mp3",
       "Raw Text": "今天晚上回家吃晚饭。\nTonight, come home to have dinner.\n\n1. return home\n\n‎\n\n‎\n\n    \n\n\nCharacters: 回\n\n\n家\n",
       "id": "level-29-sentences:8",
-      "characters": "回 家",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "回 家"
     },
     {
       "Chinese": "就是过年回家的车票啊！",
       "English": "It’s the ticket to go home for the New Year!",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0009-audio-1-a666685eae.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0009-audio-2-9a659eef2e.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%B0%B1%E6%98%AF%E8%BF%87%E5%B9%B4%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%BD%A6%E7%A5%A8%E5%95%8A-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%B0%B1%E6%98%AF%E8%BF%87%E5%B9%B4%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%BD%A6%E7%A5%A8%E5%95%8A-%E7%94%B7.mp3",
       "Raw Text": "就是过年回家的车票啊！\nIt’s the ticket to go home for the New Year!\n\n1. return home\n\n‎\n\n就 jiù - exactly, just    啊 a - (expressing surprise)    过年 - celebrate Spring Festival    车票 chēpiào - fare\n\n‎\n\n    \n\n\nCharacters: 回\n\n\n家\n",
       "id": "level-29-sentences:9",
-      "characters": "回 家",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "回 家"
     },
     {
       "Chinese": "中国是一个友好的国家。",
       "English": "China is a friendly country.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0010-audio-1-6c1d3ff569.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0010-audio-2-7743cbc922.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8F%8B%E5%A5%BD%E7%9A%84%E5%9B%BD%E5%AE%B6-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8F%8B%E5%A5%BD%E7%9A%84%E5%9B%BD%E5%AE%B6-%E7%94%B7.mp3",
       "Raw Text": "中国是一个友好的国家。\nChina is a friendly country.\n\n1. country\n\n‎\n\n‎\n\n    \n\n\nCharacters: 国\n\n\n家\n",
       "id": "level-29-sentences:10",
-      "characters": "国 家",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "国 家"
     },
     {
       "Chinese": "节日的时候，我回去看我的家人。",
       "English": "During the holidays, I go back to see my family.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0011-audio-1-852fa39823.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0011-audio-2-72dbe0a1ce.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%8A%82%E6%97%A5%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E6%88%91%E5%9B%9E%E5%8E%BB%E7%9C%8B%E6%88%91%E7%9A%84%E5%AE%B6%E4%BA%BA-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%8A%82%E6%97%A5%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E6%88%91%E5%9B%9E%E5%8E%BB%E7%9C%8B%E6%88%91%E7%9A%84%E5%AE%B6%E4%BA%BA-%E7%94%B7.mp3",
       "Raw Text": "节日的时候，我回去看我的家人。\nDuring the holidays, I go back to see my family.\n\n1. family\n\n‎\n\n节日 jiérì - holiday; festival  时候 shíhòu - moment in time, when\n\n‎\n\n    \n\n\nCharacters: 人\n\n\n家\n",
       "id": "level-29-sentences:11",
-      "characters": "人 家",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "家 人"
     },
     {
       "Chinese": "你不想你的家人吗？",
       "English": "Don’t you miss your family?",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0012-audio-1-045ad1dd8d.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0012-audio-2-d77077d2ad.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BD%A0%E4%B8%8D%E6%83%B3%E4%BD%A0%E7%9A%84%E5%AE%B6%E4%BA%BA%E5%90%97-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BD%A0%E4%B8%8D%E6%83%B3%E4%BD%A0%E7%9A%84%E5%AE%B6%E4%BA%BA%E5%90%97-%E7%94%B7.mp3",
       "Raw Text": "你不想你的家人吗？\nDon’t you miss your family?\n\n1. family\n\n‎\n\n‎\n\n    \n\n\nCharacters: 人\n\n\n家\n",
       "id": "level-29-sentences:12",
-      "characters": "人 家",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "家 人"
     },
     {
       "Chinese": "因为大家都想回家和家人一起过年。",
       "English": "Because everyone wants to go home and celebrate the New Year with their family.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0013-audio-1-5eda004e60.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0013-audio-2-e9f89c7ef0.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%A0%E4%B8%BA%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%83%B3%E5%9B%9E%E5%AE%B6%E5%92%8C%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%B5%B7%E8%BF%87%E5%B9%B4-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%A0%E4%B8%BA%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%83%B3%E5%9B%9E%E5%AE%B6%E5%92%8C%E5%AE%B6%E4%BA%BA%E4%B8%80%E8%B5%B7%E8%BF%87%E5%B9%B4-%E7%94%B7.mp3",
       "Raw Text": "因为大家都想回家和家人一起过年。\nBecause everyone wants to go home and celebrate the New Year with their family.\n\n1. family\n\n‎\n\n都 dōu - all, every  过年 - celebrate Spring Festival\n\n‎\n\n    \n\n\nCharacters: 人\n\n\n家\n",
       "id": "level-29-sentences:13",
-      "characters": "人 家",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "家 人"
     },
     {
       "Chinese": "我有点儿想家了。",
       "English": "I’m a little homesick.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0014-audio-1-d15fd2da19.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0014-audio-2-996eb797c3.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E6%9C%89%E7%82%B9%E5%84%BF%E6%83%B3%E5%AE%B6%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E6%9C%89%E7%82%B9%E5%84%BF%E6%83%B3%E5%AE%B6%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "我有点儿想家了。\nI’m a little homesick.\n\n1. to miss home, homesick\n\n‎\n\n‎\n\n    \n\n\nCharacters: 想\n\n\n家\n",
       "id": "level-29-sentences:14",
-      "characters": "想 家",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "想 家"
     },
     {
       "Chinese": "我们每年都是在老家过的，今年想改变一下。",
       "English": "Every year we spend the holidays in our hometown; this year we want to make a change.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0015-audio-1-d0f304e8e7.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0015-audio-2-aa177b2bbe.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E4%BB%AC%E6%AF%8F%E5%B9%B4%E9%83%BD%E6%98%AF%E5%9C%A8%E8%80%81%E5%AE%B6%E8%BF%87%E7%9A%84%EF%BC%8C%E4%BB%8A%E5%B9%B4%E6%83%B3%E6%94%B9%E5%8F%98%E4%B8%80%E4%B8%8B-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E4%BB%AC%E6%AF%8F%E5%B9%B4%E9%83%BD%E6%98%AF%E5%9C%A8%E8%80%81%E5%AE%B6%E8%BF%87%E7%9A%84%EF%BC%8C%E4%BB%8A%E5%B9%B4%E6%83%B3%E6%94%B9%E5%8F%98%E4%B8%80%E4%B8%8B-%E7%94%B7.mp3",
       "Raw Text": "我们每年都是在老家过的，今年想改变一下。\nEvery year we spend the holidays in our hometown; this year we want to make a change.\n\n1. hometown\n\n‎\n\n都 dōu - all, every\n\n‎\n\n    \n\n\nCharacters: 家\n\n\n老\n",
       "id": "level-29-sentences:15",
-      "characters": "家 老",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "老 家"
     },
     {
       "Chinese": "大象比马大得多。",
       "English": "Elephants are much bigger than horses.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0016-audio-1-e4e95eeea3.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0016-audio-2-a658435c55.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%A4%A7%E8%B1%A1%E6%AF%94%E9%A9%AC%E5%A4%A7%E5%BE%97%E5%A4%9A-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%A4%A7%E8%B1%A1%E6%AF%94%E9%A9%AC%E5%A4%A7%E5%BE%97%E5%A4%9A-%E7%94%B7.mp3",
       "Raw Text": "大象比马大得多。\nElephants are much bigger than horses.\n\n1. elephant\n\n‎\n\n‎\n\n    \n\n\nCharacters: 大\n\n\n象\n",
       "id": "level-29-sentences:16",
-      "characters": "大 象",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "大 象"
     },
     {
       "Chinese": "我长得像妈妈。",
       "English": "I look like my mom.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0017-audio-1-d1360727d2.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0017-audio-2-c32513f202.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E9%95%BF%E5%BE%97%E5%83%8F%E5%A6%88%E5%A6%88-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E9%95%BF%E5%BE%97%E5%83%8F%E5%A6%88%E5%A6%88-%E7%94%B7.mp3",
       "Raw Text": "我长得像妈妈。\nI look like my mom.\n\n1. to look like, resemble\n\n‎\n\n‎\n\n    \n\n\nCharacters: 像\n",
       "id": "level-29-sentences:17",
-      "characters": "像",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "像"
     },
     {
       "Chinese": "老家乱得不像话。",
       "English": "My hometown is a terrible mess.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0018-audio-1-a879b370b4.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0018-audio-2-7fb1114519.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%80%81%E5%AE%B6%E4%B9%B1%E5%BE%97%E4%B8%8D%E5%83%8F%E8%AF%9D-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%80%81%E5%AE%B6%E4%B9%B1%E5%BE%97%E4%B8%8D%E5%83%8F%E8%AF%9D-%E7%94%B7.mp3",
       "Raw Text": "老家乱得不像话。\nMy hometown is a terrible mess.\n\n1. unreasonable (doesn’t resemble speech)\n\n‎\n\n‎\n\n    \n\n\nCharacters: 话\n\n\n不\n\n\n像\n",
       "id": "level-29-sentences:18",
-      "characters": "话 不 像",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "不 像 话"
     },
     {
       "Chinese": "因为他把我的手机摔坏了。太不像话了！",
       "English": "Because he broke my phone. That’s outrageous!",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0019-audio-1-ddd163a92e.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0019-audio-2-a2a202fb11.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%A0%E4%B8%BA%E4%BB%96%E6%8A%8A%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E6%91%94%E5%9D%8F%E4%BA%86%E3%80%82%E5%A4%AA%E4%B8%8D%E5%83%8F%E8%AF%9D%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%A0%E4%B8%BA%E4%BB%96%E6%8A%8A%E6%88%91%E7%9A%84%E6%89%8B%E6%9C%BA%E6%91%94%E5%9D%8F%E4%BA%86%E3%80%82%E5%A4%AA%E4%B8%8D%E5%83%8F%E8%AF%9D%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "因为他把我的手机摔坏了。太不像话了！\nBecause he broke my phone. That’s outrageous!\n\n1. unreasonable (doesn’t resemble speech)\n\n‎\n\n摔坏 shuāihuài - broken   把 bǎ - (preposition used to shift the object to before the verb, which must be accompanied by some other word or expression, often a verb complement)\n\n‎\n\n    \n\n\nCharacters: 话\n\n\n不\n\n\n像\n",
       "id": "level-29-sentences:19",
-      "characters": "话 不 像",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "不 像 话"
     },
     {
       "Chinese": "我好像爱上她了。",
       "English": "I seem to have fallen in love with her.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0020-audio-1-b7e6301c8f.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0020-audio-2-9741ee77e0.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%A5%BD%E5%83%8F%E7%88%B1%E4%B8%8A%E5%A5%B9%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%A5%BD%E5%83%8F%E7%88%B1%E4%B8%8A%E5%A5%B9%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "我好像爱上她了。\nI seem to have fallen in love with her.\n\n1. to seem like, to seem as if\n\n‎\n\n‎\n\n    \n\n\nCharacters: 好\n\n\n像\n",
       "id": "level-29-sentences:20",
-      "characters": "好 像",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "好 像"
     },
     {
       "Chinese": "我的头有点大。",
       "English": "My head is a little big.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0021-audio-1-e8d099e48a.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0021-audio-2-3c729d7978.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E7%9A%84%E5%A4%B4%E6%9C%89%E7%82%B9%E5%A4%A7-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E7%9A%84%E5%A4%B4%E6%9C%89%E7%82%B9%E5%A4%A7-%E7%94%B7.mp3",
       "Raw Text": "我的头有点大。\nMy head is a little big.\n\n1. head\n\n‎\n\n‎\n\n    \n\n\nCharacters: 头\n",
       "id": "level-29-sentences:21",
-      "characters": "头",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "头"
     },
     {
       "Chinese": "别回头!",
       "English": "Don’t look back!",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0022-audio-1-a1859d5d30.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0022-audio-2-583a07beb6.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%88%AB%E5%9B%9E%E5%A4%B4-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%88%AB%E5%9B%9E%E5%A4%B4-%E7%94%B7.mp3",
       "Raw Text": "别回头!\nDon’t look back!\n\n1. turn around\n\n‎\n\n‎\n\n    \n\n\nCharacters: 头\n\n\n回\n",
       "id": "level-29-sentences:22",
-      "characters": "头 回",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "回 头"
     },
     {
       "Chinese": "回头见！",
       "English": "See you later!",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0023-audio-1-e96e6c28e2.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0023-audio-2-dc22998382.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%9E%E5%A4%B4%E8%A7%81-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%9E%E5%A4%B4%E8%A7%81-%E7%94%B7.mp3",
       "Raw Text": "回头见！\nSee you later!\n\n2. later\n\n‎\n\n‎\n\n    \n\n\nCharacters: 头\n\n\n回\n",
       "id": "level-29-sentences:23",
-      "characters": "头 回",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "回 头"
     },
     {
       "Chinese": "她的头发很长。",
       "English": "Her hair is very long.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0024-audio-1-241cddb5d9.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0024-audio-2-aaa304a758.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%A5%B9%E7%9A%84%E5%A4%B4%E5%8F%91%E5%BE%88%E9%95%BF-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%A5%B9%E7%9A%84%E5%A4%B4%E5%8F%91%E5%BE%88%E9%95%BF-%E7%94%B7.mp3",
       "Raw Text": "她的头发很长。\nHer hair is very long.\n\n1. hair (on one’s head)\n\n‎\n\n‎\n\n    \n\n\nCharacters: 头\n\n\n发\n",
       "id": "level-29-sentences:24",
-      "characters": "头 发",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "头 发"
     },
     {
       "Chinese": "这扇门是木头做的。",
       "English": "This door is made of wood.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0025-audio-1-32310b21d9.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0025-audio-2-46b9089c41.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E6%89%87%E9%97%A8%E6%98%AF%E6%9C%A8%E5%A4%B4%E5%81%9A%E7%9A%84-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E6%89%87%E9%97%A8%E6%98%AF%E6%9C%A8%E5%A4%B4%E5%81%9A%E7%9A%84-%E7%94%B7.mp3",
       "Raw Text": "这扇门是木头做的。\nThis door is made of wood.\n\n1. wood\n\n‎\n\n扇 shàn - measure word for doors, windows, etc  做的 zuòde - to be made of\n\n‎\n\n    \n\n\nCharacters: 头\n\n\n木\n",
       "id": "level-29-sentences:25",
-      "characters": "头 木",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "木 头"
     },
     {
       "Chinese": "他的舌头有点儿厚。",
       "English": "His tongue is a little thick.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0026-audio-1-5517beaf2f.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0026-audio-2-fc3d96ffdf.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%96%E7%9A%84%E8%88%8C%E5%A4%B4%E6%9C%89%E7%82%B9%E5%84%BF%E5%8E%9A-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%96%E7%9A%84%E8%88%8C%E5%A4%B4%E6%9C%89%E7%82%B9%E5%84%BF%E5%8E%9A-%E7%94%B7.mp3",
       "Raw Text": "他的舌头有点儿厚。\nHis tongue is a little thick.\n\n1. tongue\n\n‎\n\n‎\n\n    \n\n\nCharacters: 头\n\n\n舌\n",
       "id": "level-29-sentences:26",
-      "characters": "头 舌",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "舌 头"
     },
     {
       "Chinese": "其实，我爱上她了。",
       "English": "Actually, I have fallen in love with her.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0027-audio-1-ad4d3ab868.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0027-audio-2-99fa837891.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%85%B6%E5%AE%9E%EF%BC%8C%E6%88%91%E7%88%B1%E4%B8%8A%E5%A5%B9%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%85%B6%E5%AE%9E%EF%BC%8C%E6%88%91%E7%88%B1%E4%B8%8A%E5%A5%B9%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "其实，我爱上她了。\nActually, I have fallen in love with her.\n\n1. actually, really, in fact\n\n‎\n\n‎\n\n    \n\n\nCharacters: 其\n\n\n实\n",
       "id": "level-29-sentences:27",
-      "characters": "其 实",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "其 实"
     },
     {
       "Chinese": "说实话，你很美。",
       "English": "To be honest, you are very beautiful.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0028-audio-1-671211af9f.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0028-audio-2-352e449a42.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%AF%B4%E5%AE%9E%E8%AF%9D%EF%BC%8C%E4%BD%A0%E5%BE%88%E7%BE%8E-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%AF%B4%E5%AE%9E%E8%AF%9D%EF%BC%8C%E4%BD%A0%E5%BE%88%E7%BE%8E-%E7%94%B7.mp3",
       "Raw Text": "说实话，你很美。\nTo be honest, you are very beautiful.\n\n1. truth (spoken)\n\n‎\n\n‎\n\n    \n\n\nCharacters: 话\n\n\n实\n",
       "id": "level-29-sentences:28",
-      "characters": "话 实",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "实 话"
     },
     {
       "Chinese": "这个男生很老实。",
       "English": "This boy is very honest.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0029-audio-1-485fb162d2.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E4%B8%AA%E7%94%B7%E7%94%9F%E5%BE%88%E8%80%81%E5%AE%9E-%E5%A5%B3.mp3",
       "Audio 2": "",
       "Raw Text": "这个男生很老实。\nThis boy is very honest.\n\n1. honest, frank, well-behaved, good\n\n‎\n\n‎\n\n    \n\n\nCharacters: 实\n\n\n老\n",
       "id": "level-29-sentences:29",
-      "characters": "实 老",
-      "Audio 1 Local": "true"
+      "characters": "老 实"
     },
     {
       "Chinese": "我想买这本笔记本。",
       "English": "I want to buy this notebook.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0030-audio-1-d294cfb422.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0030-audio-2-79fcfa8a30.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E6%83%B3%E4%B9%B0%E8%BF%99%E6%9C%AC%E7%AC%94%E8%AE%B0%E6%9C%AC-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E6%83%B3%E4%B9%B0%E8%BF%99%E6%9C%AC%E7%AC%94%E8%AE%B0%E6%9C%AC-%E7%94%B7.mp3",
       "Raw Text": "我想买这本笔记本。\nI want to buy this notebook.\n\n1. to buy\n\n‎\n\n笔记本 bǐjìběn - notebook\n\n‎\n\n    \n\n\nCharacters: 买\n",
       "id": "level-29-sentences:30",
-      "characters": "买",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "买"
     },
     {
       "Chinese": "大家把东西买回家以后，发现自己被骗了。",
       "English": "After everyone brought the things home, they realized they were scammed.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0031-audio-1-42fbb20621.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0031-audio-2-b300490657.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%A4%A7%E5%AE%B6%E6%8A%8A%E4%B8%9C%E8%A5%BF%E4%B9%B0%E5%9B%9E%E5%AE%B6%E4%BB%A5%E5%90%8E%EF%BC%8C%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E9%AA%97%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%A4%A7%E5%AE%B6%E6%8A%8A%E4%B8%9C%E8%A5%BF%E4%B9%B0%E5%9B%9E%E5%AE%B6%E4%BB%A5%E5%90%8E%EF%BC%8C%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E8%A2%AB%E9%AA%97%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "大家把东西买回家以后，发现自己被骗了。\nAfter everyone brought the things home, they realized they were scammed.\n\n1. to buy\n\n‎\n\n把 bǎ - (used to shift the object to before the verb, which must be reduplicated or accompanied by some other word of expression)  骗 piàn - to lie\n\n‎\n\n    \n\n\nCharacters: 买\n",
       "id": "level-29-sentences:31",
-      "characters": "买",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "买"
     },
     {
       "Chinese": "回家的车票买了吗？",
       "English": "Did you buy the ticket home?",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0032-audio-1-1561d9a86b.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0032-audio-2-5392555949.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%BD%A6%E7%A5%A8%E4%B9%B0%E4%BA%86%E5%90%97-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%BD%A6%E7%A5%A8%E4%B9%B0%E4%BA%86%E5%90%97-%E7%94%B7.mp3",
       "Raw Text": "回家的车票买了吗？\nDid you buy the ticket home?\n\n1. to buy\n\n‎\n\n车票 chēpiào - fare\n\n‎\n\n    \n\n\nCharacters: 买\n",
       "id": "level-29-sentences:32",
-      "characters": "买",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "买"
     },
     {
       "Chinese": "因为快过年了，车票越来越难买了。",
       "English": "Because the New Year is approaching, tickets are getting harder and harder to buy.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0033-audio-1-7e77338a4d.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0033-audio-2-94e064595d.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%A0%E4%B8%BA%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%EF%BC%8C%E8%BD%A6%E7%A5%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E4%B9%B0%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%A0%E4%B8%BA%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%EF%BC%8C%E8%BD%A6%E7%A5%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E4%B9%B0%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "因为快过年了，车票越来越难买了。\nBecause the New Year is approaching, tickets are getting harder and harder to buy.\n\n1. to buy\n\n‎\n\n车票 chēpiào - fare    过年 - celebrate Spring Festival    难 nán - difficult    越来越 yuèláiyuè - increasingly\n\n‎\n\n    \n\n\nCharacters: 买\n",
       "id": "level-29-sentences:33",
-      "characters": "买",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "买"
     },
     {
       "Chinese": "要是你没买的话，得快去买了。",
       "English": "If you haven’t bought it yet, you need to buy it quickly.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0034-audio-1-25397337c6.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0034-audio-2-8a87b78314.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%A6%81%E6%98%AF%E4%BD%A0%E6%B2%A1%E4%B9%B0%E7%9A%84%E8%AF%9D%EF%BC%8C%E5%BE%97%E5%BF%AB%E5%8E%BB%E4%B9%B0%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%A6%81%E6%98%AF%E4%BD%A0%E6%B2%A1%E4%B9%B0%E7%9A%84%E8%AF%9D%EF%BC%8C%E5%BE%97%E5%BF%AB%E5%8E%BB%E4%B9%B0%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "要是你没买的话，得快去买了。\nIf you haven’t bought it yet, you need to buy it quickly.\n\n1. to buy\n\n‎\n\n‎\n\n    \n\n\nCharacters: 买\n",
       "id": "level-29-sentences:34",
-      "characters": "买",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "买"
     },
     {
       "Chinese": "那你的车票买到了吗？",
       "English": "So, did you get your ticket?",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0035-audio-1-a7a09659cc.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0035-audio-2-32530a7f00.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E9%82%A3%E4%BD%A0%E7%9A%84%E8%BD%A6%E7%A5%A8%E4%B9%B0%E5%88%B0%E4%BA%86%E5%90%97-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E9%82%A3%E4%BD%A0%E7%9A%84%E8%BD%A6%E7%A5%A8%E4%B9%B0%E5%88%B0%E4%BA%86%E5%90%97-%E7%94%B7.mp3",
       "Raw Text": "那你的车票买到了吗？\nSo, did you get your ticket?\n\n1. to buy\n\n‎\n\n车票 chēpiào - fare\n\n‎\n\n    \n\n\nCharacters: 买\n",
       "id": "level-29-sentences:35",
-      "characters": "买",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "买"
     },
     {
       "Chinese": "而且还不用担心买不到票。",
       "English": "And you don’t have to worry about not getting a ticket.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0036-audio-1-77f1ae6e33.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0036-audio-2-c40c41bc66.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%80%8C%E4%B8%94%E8%BF%98%E4%B8%8D%E7%94%A8%E6%8B%85%E5%BF%83%E4%B9%B0%E4%B8%8D%E5%88%B0%E7%A5%A8-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%80%8C%E4%B8%94%E8%BF%98%E4%B8%8D%E7%94%A8%E6%8B%85%E5%BF%83%E4%B9%B0%E4%B8%8D%E5%88%B0%E7%A5%A8-%E7%94%B7.mp3",
       "Raw Text": "而且还不用担心买不到票。\nAnd you don’t have to worry about not getting a ticket.\n\n1. to buy\n\n‎\n\n而且 érqiě - also  票 piào - ticket\n\n‎\n\n    \n\n\nCharacters: 买\n",
       "id": "level-29-sentences:36",
-      "characters": "买",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "买"
     },
     {
       "Chinese": "今天我来买单。",
       "English": "I will pay the bill today.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0037-audio-1-7b77ee8099.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0037-audio-2-c8e615acf5.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%8A%E5%A4%A9%E6%88%91%E6%9D%A5%E4%B9%B0%E5%8D%95-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%8A%E5%A4%A9%E6%88%91%E6%9D%A5%E4%B9%B0%E5%8D%95-%E7%94%B7.mp3",
       "Raw Text": "今天我来买单。\nI will pay the bill today.\n\n1. check, to get the check\n\n‎\n\n‎\n\n    \n\n\nCharacters: 买\n\n\n单\n",
       "id": "level-29-sentences:37",
-      "characters": "买 单",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "买 单"
     },
     {
       "Chinese": "卖东西的人和买东西的人很容易联系上对方。",
       "English": "Sellers and buyers can easily contact each other.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0038-audio-1-9f96c81cf4.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0038-audio-2-7c897947c9.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%8D%96%E4%B8%9C%E8%A5%BF%E7%9A%84%E4%BA%BA%E5%92%8C%E4%B9%B0%E4%B8%9C%E8%A5%BF%E7%9A%84%E4%BA%BA%E5%BE%88%E5%AE%B9%E6%98%93%E8%81%94%E7%B3%BB%E4%B8%8A%E5%AF%B9%E6%96%B9-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%8D%96%E4%B8%9C%E8%A5%BF%E7%9A%84%E4%BA%BA%E5%92%8C%E4%B9%B0%E4%B8%9C%E8%A5%BF%E7%9A%84%E4%BA%BA%E5%BE%88%E5%AE%B9%E6%98%93%E8%81%94%E7%B3%BB%E4%B8%8A%E5%AF%B9%E6%96%B9-%E7%94%B7.mp3",
       "Raw Text": "卖东西的人和买东西的人很容易联系上对方。\nSellers and buyers can easily contact each other.\n\n1. to sell\n\n‎\n\n容易 róngyì - easy; likely; liable (to)  对方 duìfāng - each other\n\n‎\n\n    \n\n\nCharacters: 卖\n",
       "id": "level-29-sentences:38",
-      "characters": "卖",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "卖"
     },
     {
       "Chinese": "每一个公司都应该诚实，然后用心把自己卖的东西做好。",
       "English": "Every company should be honest and then carefully make the products they sell.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0039-audio-1-2a57826190.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0039-audio-2-500539c45c.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%85%AC%E5%8F%B8%E9%83%BD%E5%BA%94%E8%AF%A5%E8%AF%9A%E5%AE%9E%EF%BC%8C%E7%84%B6%E5%90%8E%E7%94%A8%E5%BF%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8D%96%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%81%9A%E5%A5%BD-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%85%AC%E5%8F%B8%E9%83%BD%E5%BA%94%E8%AF%A5%E8%AF%9A%E5%AE%9E%EF%BC%8C%E7%84%B6%E5%90%8E%E7%94%A8%E5%BF%83%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8D%96%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%81%9A%E5%A5%BD-%E7%94%B7.mp3",
       "Raw Text": "每一个公司都应该诚实，然后用心把自己卖的东西做好。\nEvery company should be honest and then carefully make the products they sell.\n\n1. to sell\n\n‎\n\n都 dōu - all, every    把 bǎ - (used to shift the object to before the verb, which must be reduplicated or accompanied by some other word of expression)    诚实 chéngshí - honest\n\n‎\n\n    \n\n\nCharacters: 卖\n",
       "id": "level-29-sentences:39",
-      "characters": "卖",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "卖"
     },
     {
       "Chinese": "她是一个卖菜的{人}。",
       "English": "",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0040-audio-1-7089d8a519.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0040-audio-2-d6cadea140.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%A5%B9%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8D%96%E8%8F%9C%E7%9A%84%28%E4%BA%BA%29-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%A5%B9%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8D%96%E8%8F%9C%E7%9A%84%28%E4%BA%BA%29-%E7%94%B7.mp3",
       "Raw Text": "她是一个卖菜的(人)。\nShe is a vegetable seller.\n\n1. to sell\n\n“人” can be omitted since the context is clear\n\n‎\n\n‎\n\n    \n\n\nCharacters: 卖\n",
       "id": "level-29-sentences:40",
-      "characters": "卖",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "卖"
     },
     {
       "Chinese": "这是一个好买卖。",
       "English": "This is a good deal.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0041-audio-1-5c448d5dbc.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0041-audio-2-efe06b1a61.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E4%B9%B0%E5%8D%96-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E4%B9%B0%E5%8D%96-%E7%94%B7.mp3",
       "Raw Text": "这是一个好买卖。\nThis is a good deal.\n\n1. to do business\n\n‎\n\n‎\n\n    \n\n\nCharacters: 卖\n\n\n买\n",
       "id": "level-29-sentences:41",
-      "characters": "卖 买",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "买 卖"
     },
     {
       "Chinese": "我订了外卖。",
       "English": "I ordered takeout.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0042-audio-1-43925d64d2.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0042-audio-2-9e371fe283.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E8%AE%A2%E4%BA%86%E5%A4%96%E5%8D%96-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E8%AE%A2%E4%BA%86%E5%A4%96%E5%8D%96-%E7%94%B7.mp3",
       "Raw Text": "我订了外卖。\nI ordered takeout.\n\n1. take out, food delivery\n\n‎\n\n订 dìng - order\n\n‎\n\n    \n\n\nCharacters: 卖\n\n\n外\n",
       "id": "level-29-sentences:42",
-      "characters": "卖 外",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "外 卖"
     },
     {
       "Chinese": "人应该多读书。",
       "English": "People should read more.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0043-audio-1-8518fc60e2.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0043-audio-2-f572cd60e0.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BA%BA%E5%BA%94%E8%AF%A5%E5%A4%9A%E8%AF%BB%E4%B9%A6-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BA%BA%E5%BA%94%E8%AF%A5%E5%A4%9A%E8%AF%BB%E4%B9%A6-%E7%94%B7.mp3",
       "Raw Text": "人应该多读书。\nPeople should read more.\n\n1. to read\n\n‎\n\n‎\n\n    \n\n\nCharacters: 读\n\n\n书\n",
       "id": "level-29-sentences:43",
-      "characters": "读 书",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "读 书"
     },
     {
       "Chinese": "我爱读书。",
       "English": "I love reading.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0044-audio-1-c6f90d1723.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0044-audio-2-64ed78ae5f.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E7%88%B1%E8%AF%BB%E4%B9%A6-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E7%88%B1%E8%AF%BB%E4%B9%A6-%E7%94%B7.mp3",
       "Raw Text": "我爱读书。\nI love reading.\n\n1. to read, to study a subject\n\n‎\n\n‎\n\n    \n\n\nCharacters: 读\n\n\n书\n",
       "id": "level-29-sentences:44",
-      "characters": "读 书",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "读 书"
     },
     {
       "Chinese": "这头牛很肥。",
       "English": "This cow is very fat.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0045-audio-1-ff62ea6157.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0045-audio-2-f95683bd07.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E5%A4%B4%E7%89%9B%E5%BE%88%E8%82%A5-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E5%A4%B4%E7%89%9B%E5%BE%88%E8%82%A5-%E7%94%B7.mp3",
       "Raw Text": "这头牛很肥。\nThis cow is very fat.\n\n1. cow\n\n‎\n\n肥 féi - fat\n\n‎\n\n    \n\n\nCharacters: 牛\n",
       "id": "level-29-sentences:45",
-      "characters": "牛",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "牛"
     },
     {
       "Chinese": "我爱吃牛肉。",
       "English": "I love eating beef.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0046-audio-1-04585b5801.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0046-audio-2-0581ae32ee.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E7%88%B1%E5%90%83%E7%89%9B%E8%82%89-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E7%88%B1%E5%90%83%E7%89%9B%E8%82%89-%E7%94%B7.mp3",
       "Raw Text": "我爱吃牛肉。\nI love eating beef.\n\n1. beef\n\n‎\n\n‎\n\n    \n\n\nCharacters: 牛\n\n\n肉\n",
       "id": "level-29-sentences:46",
-      "characters": "牛 肉",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "牛 肉"
     },
     {
       "Chinese": "但是外卖送来后，牛肉很小，但面很多。",
       "English": "But after the takeout arrived, the beef was very small, but there was a lot of noodles.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0047-audio-1-6c239bcaf8.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0047-audio-2-55558ec003.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BD%86%E6%98%AF%E5%A4%96%E5%8D%96%E9%80%81%E6%9D%A5%E5%90%8E%EF%BC%8C%E7%89%9B%E8%82%89%E5%BE%88%E5%B0%8F%EF%BC%8C%E4%BD%86%E9%9D%A2%E5%BE%88%E5%A4%9A-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BD%86%E6%98%AF%E5%A4%96%E5%8D%96%E9%80%81%E6%9D%A5%E5%90%8E%EF%BC%8C%E7%89%9B%E8%82%89%E5%BE%88%E5%B0%8F%EF%BC%8C%E4%BD%86%E9%9D%A2%E5%BE%88%E5%A4%9A-%E7%94%B7.mp3",
       "Raw Text": "但是外卖送来后，牛肉很小，但面很多。\nBut after the takeout arrived, the beef was very small, but there was a lot of noodles.\n\n1. beef\n\n‎\n\n‎\n\n    \n\n\nCharacters: 牛\n\n\n肉\n",
       "id": "level-29-sentences:47",
-      "characters": "牛 肉",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "牛 肉"
     },
     {
       "Chinese": "我想吃有牛肉的菜，你们有哪些？",
       "English": "I want to eat dishes with beef, which ones do you have?",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0048-audio-1-0c2f6f58bd.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0048-audio-2-400ee70a27.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E6%83%B3%E5%90%83%E6%9C%89%E7%89%9B%E8%82%89%E7%9A%84%E8%8F%9C%EF%BC%8C%E4%BD%A0%E4%BB%AC%E6%9C%89%E5%93%AA%E4%BA%9B-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E6%83%B3%E5%90%83%E6%9C%89%E7%89%9B%E8%82%89%E7%9A%84%E8%8F%9C%EF%BC%8C%E4%BD%A0%E4%BB%AC%E6%9C%89%E5%93%AA%E4%BA%9B-%E7%94%B7.mp3",
       "Raw Text": "我想吃有牛肉的菜，你们有哪些？\nI want to eat dishes with beef, which ones do you have?\n\n1. beef\n\n‎\n\n‎\n\n    \n\n\nCharacters: 牛\n\n\n肉\n",
       "id": "level-29-sentences:48",
-      "characters": "牛 肉",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "牛 肉"
     },
     {
       "Chinese": "这个菜和那个菜都是牛肉的，都很有名。",
       "English": "This dish and that dish both have beef, and both are very famous.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0049-audio-1-8d5fa5b26f.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0049-audio-2-d197babca4.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E4%B8%AA%E8%8F%9C%E5%92%8C%E9%82%A3%E4%B8%AA%E8%8F%9C%E9%83%BD%E6%98%AF%E7%89%9B%E8%82%89%E7%9A%84%EF%BC%8C%E9%83%BD%E5%BE%88%E6%9C%89%E5%90%8D-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E4%B8%AA%E8%8F%9C%E5%92%8C%E9%82%A3%E4%B8%AA%E8%8F%9C%E9%83%BD%E6%98%AF%E7%89%9B%E8%82%89%E7%9A%84%EF%BC%8C%E9%83%BD%E5%BE%88%E6%9C%89%E5%90%8D-%E7%94%B7.mp3",
       "Raw Text": "这个菜和那个菜都是牛肉的，都很有名。\nThis dish and that dish both have beef, and both are very famous.\n\n1. beef\n\n‎\n\n‎\n\n    \n\n\nCharacters: 牛\n\n\n肉\n",
       "id": "level-29-sentences:49",
-      "characters": "牛 肉",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "牛 肉"
     },
     {
       "Chinese": "今天的月亮特别美。",
       "English": "Today the moon is especially beautiful.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0050-audio-1-c5649f14ad.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0050-audio-2-896b3a647d.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%9C%88%E4%BA%AE%E7%89%B9%E5%88%AB%E7%BE%8E-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%9C%88%E4%BA%AE%E7%89%B9%E5%88%AB%E7%BE%8E-%E7%94%B7.mp3",
       "Raw Text": "今天的月亮特别美。\nToday the moon is especially beautiful.\n\n1. extremely, extraordinarily\n\n‎\n\n月亮 yuèliang - the moon\n\n‎\n\n    \n\n\nCharacters: 别\n\n\n特\n",
       "id": "level-29-sentences:50",
-      "characters": "别 特",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "特 别"
     },
     {
       "Chinese": "因为他们的广告是买过用过的人帮他们做的，不仅不要钱，效果还特别好！",
       "English": "Because their advertisement is made by people who bought and used the product, not only is it free, the effect is especially good!",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0051-audio-1-985f1f54db.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0051-audio-2-54a11511c7.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%A0%E4%B8%BA%E4%BB%96%E4%BB%AC%E7%9A%84%E5%B9%BF%E5%91%8A%E6%98%AF%E4%B9%B0%E8%BF%87%E7%94%A8%E8%BF%87%E7%9A%84%E4%BA%BA%E5%B8%AE%E4%BB%96%E4%BB%AC%E5%81%9A%E7%9A%84%EF%BC%8C%E4%B8%8D%E4%BB%85%E4%B8%8D%E8%A6%81%E9%92%B1-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%A0%E4%B8%BA%E4%BB%96%E4%BB%AC%E7%9A%84%E5%B9%BF%E5%91%8A%E6%98%AF%E4%B9%B0%E8%BF%87%E7%94%A8%E8%BF%87%E7%9A%84%E4%BA%BA%E5%B8%AE%E4%BB%96%E4%BB%AC%E5%81%9A%E7%9A%84%EF%BC%8C%E4%B8%8D%E4%BB%85%E4%B8%8D%E8%A6%81%E9%92%B1-%E7%94%B7.mp3",
       "Raw Text": "因为他们的广告是买过用过的人帮他们做的，不仅不要钱，效果还特别好！\nBecause their advertisement is made by people who bought and used the product, not only is it free, the effect is especially good!\n\n1. extremely, extraordinarily\n\n‎\n\n广告 guǎnggào - advertisement    帮 bāng - to help    不仅 bùjǐn - not only    效果 xiàoguǒ - effect\n\n‎\n\n    \n\n\nCharacters: 别\n\n\n特\n",
       "id": "level-29-sentences:51",
-      "characters": "别 特",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "特 别"
     },
     {
       "Chinese": "那个人很特别。",
       "English": "That person is very special.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0052-audio-1-63adcf1acf.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0052-audio-2-4c955c75f5.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E9%82%A3%E4%B8%AA%E4%BA%BA%E5%BE%88%E7%89%B9%E5%88%AB-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E9%82%A3%E4%B8%AA%E4%BA%BA%E5%BE%88%E7%89%B9%E5%88%AB-%E7%94%B7.mp3",
       "Raw Text": "那个人很特别。\nThat person is very special.\n\n2. special, different\n\n‎\n\n‎\n\n    \n\n\nCharacters: 别\n\n\n特\n",
       "id": "level-29-sentences:52",
-      "characters": "别 特",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "特 别"
     },
     {
       "Chinese": "每个人都有自己的特点。",
       "English": "Everyone has their own characteristics.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0053-audio-1-d66bb262f7.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0053-audio-2-0d63606aa2.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%89%B9%E7%82%B9-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%89%B9%E7%82%B9-%E7%94%B7.mp3",
       "Raw Text": "每个人都有自己的特点。\nEveryone has their own characteristics.\n\n1. (often defining) feature, trait, characteristic\n\n‎\n\n‎\n\n    \n\n\nCharacters: 点\n\n\n特\n",
       "id": "level-29-sentences:53",
-      "characters": "点 特",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "特 点"
     },
     {
       "Chinese": "春运挤是中国春节的一个特点。",
       "English": "Crowding during Spring Festival travel is a feature of Chinese New Year.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0054-audio-1-1775c013b2.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0054-audio-2-223970f072.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%98%A5%E8%BF%90%E6%8C%A4%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%8A%82%E7%9A%84%E4%B8%80%E4%B8%AA%E7%89%B9%E7%82%B9-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%98%A5%E8%BF%90%E6%8C%A4%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%8A%82%E7%9A%84%E4%B8%80%E4%B8%AA%E7%89%B9%E7%82%B9-%E7%94%B7.mp3",
       "Raw Text": "春运挤是中国春节的一个特点。\nCrowding during Spring Festival travel is a feature of Chinese New Year.\n\n1. (often defining) feature, trait, characteristic\n\n‎\n\n春运 chūnyùn - transport during the Spring Festival    春节 chūnjié - Spring Festival    挤 jǐ - crowded\n\n‎\n\n    \n\n\nCharacters: 点\n\n\n特\n",
       "id": "level-29-sentences:54",
-      "characters": "点 特",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "特 点"
     },
     {
       "Chinese": "我先自己看看，你们再给我们介绍一下你们最有特点的菜。",
       "English": "I’ll take a look first, then you introduce us to your most distinctive dishes.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0055-audio-1-b4f444d1c2.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0055-audio-2-e76e4efe72.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%85%88%E8%87%AA%E5%B7%B1%E7%9C%8B%E7%9C%8B%EF%BC%8C%E4%BD%A0%E4%BB%AC%E5%86%8D%E7%BB%99%E6%88%91%E4%BB%AC%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8B%E4%BD%A0%E4%BB%AC%E6%9C%80%E6%9C%89%E7%89%B9%E7%82%B9%E7%9A%84%E8%8F%9C-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%85%88%E8%87%AA%E5%B7%B1%E7%9C%8B%E7%9C%8B%EF%BC%8C%E4%BD%A0%E4%BB%AC%E5%86%8D%E7%BB%99%E6%88%91%E4%BB%AC%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8B%E4%BD%A0%E4%BB%AC%E6%9C%80%E6%9C%89%E7%89%B9%E7%82%B9%E7%9A%84%E8%8F%9C-%E7%94%B7.mp3",
       "Raw Text": "我先自己看看，你们再给我们介绍一下你们最有特点的菜。\nI’ll take a look first, then you introduce us to your most distinctive dishes.\n\n1. (often defining) feature, trait, characteristic\n\nNote: 先...再... is a simple way to say \"first x, then y.\"\n\n‎\n\n先 xiān - first\n\n‎\n\n    \n\n\nCharacters: 点\n\n\n特\n",
       "id": "level-29-sentences:55",
-      "characters": "点 特",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "特 点"
     },
     {
       "Chinese": "这件事情一直在困扰我。",
       "English": "This matter has been troubling me.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0056-audio-1-9965f1215c.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0056-audio-2-6a4664218e.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%83%85%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%9B%B0%E6%89%B0%E6%88%91-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%83%85%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%9B%B0%E6%89%B0%E6%88%91-%E7%94%B7.mp3",
       "Raw Text": "这件事情一直在困扰我。\nThis matter has been troubling me.\n\n2. (measure word for matters in general)\n\n‎\n\n事情 shìqíng - thing, matter  困扰 kùnrǎo - puzzle, perplex, nag\n\n‎\n\n    \n\n\nCharacters: 件\n",
       "id": "level-29-sentences:56",
-      "characters": "件",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "件"
     },
     {
       "Chinese": "我告诉她，我今天晚上回家吃今天买的香蕉。",
       "English": "I told her that I will go home tonight to eat the bananas I bought today.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0057-audio-1-7ef42cdaa1.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0057-audio-2-38dc35b519.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%91%8A%E8%AF%89%E5%A5%B9%EF%BC%8C%E6%88%91%E4%BB%8A%E5%A4%A9%E6%99%9A%E4%B8%8A%E5%9B%9E%E5%AE%B6%E5%90%83%E4%BB%8A%E5%A4%A9%E4%B9%B0%E7%9A%84%E9%A6%99%E8%95%89-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%91%8A%E8%AF%89%E5%A5%B9%EF%BC%8C%E6%88%91%E4%BB%8A%E5%A4%A9%E6%99%9A%E4%B8%8A%E5%9B%9E%E5%AE%B6%E5%90%83%E4%BB%8A%E5%A4%A9%E4%B9%B0%E7%9A%84%E9%A6%99%E8%95%89-%E7%94%B7.mp3",
       "Raw Text": "我告诉她，我今天晚上回家吃今天买的香蕉。\nI told her that I will go home tonight to eat the bananas I bought today.\n\n1. to tell, to inform\n\n‎\n\n香蕉 xiāngjiāo - banana\n\n‎\n\n    \n\n\nCharacters: 诉\n\n\n告\n",
       "id": "level-29-sentences:57",
-      "characters": "诉 告",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "告 诉"
     },
     {
       "Chinese": "我不喜欢广告。",
       "English": "I don’t like advertisements.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0058-audio-1-4a7b24d1cb.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0058-audio-2-cb8498f33b.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%B9%BF%E5%91%8A-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%B9%BF%E5%91%8A-%E7%94%B7.mp3",
       "Raw Text": "我不喜欢广告。\nI don’t like advertisements.\n\n1. advertisement\n\n‎\n\n喜欢 xǐhuān - to like\n\n‎\n\n    \n\n\nCharacters: 广\n\n\n告\n",
       "id": "level-29-sentences:58",
-      "characters": "广 告",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "广 告"
     },
     {
       "Chinese": "现在越来越多的人都不相信广告。",
       "English": "Nowadays more and more people don’t trust advertisements.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0059-audio-1-ee4b8ef435.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0059-audio-2-cbd8e5bc04.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E7%8E%B0%E5%9C%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E4%BA%BA%E9%83%BD%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%B9%BF%E5%91%8A-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E7%8E%B0%E5%9C%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E4%BA%BA%E9%83%BD%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%B9%BF%E5%91%8A-%E7%94%B7.mp3",
       "Raw Text": "现在越来越多的人都不相信广告。\nNowadays more and more people don’t trust advertisements.\n\n1. advertisement\n\n‎\n\n越来越 yuèláiyuè - increasingly\n\n‎\n\n    \n\n\nCharacters: 广\n\n\n告\n",
       "id": "level-29-sentences:59",
-      "characters": "广 告",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "广 告"
     },
     {
       "Chinese": "因为广告里说的和它们卖的东西不一样。",
       "English": "Because what is said in advertisements is different from what they actually sell.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0060-audio-1-09d69652f3.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0060-audio-2-091e9d3dbe.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%A0%E4%B8%BA%E5%B9%BF%E5%91%8A%E9%87%8C%E8%AF%B4%E7%9A%84%E5%92%8C%E5%AE%83%E4%BB%AC%E5%8D%96%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%B8%8D%E4%B8%80%E6%A0%B7-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%9B%A0%E4%B8%BA%E5%B9%BF%E5%91%8A%E9%87%8C%E8%AF%B4%E7%9A%84%E5%92%8C%E5%AE%83%E4%BB%AC%E5%8D%96%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%B8%8D%E4%B8%80%E6%A0%B7-%E7%94%B7.mp3",
       "Raw Text": "因为广告里说的和它们卖的东西不一样。\nBecause what is said in advertisements is different from what they actually sell.\n\n1. advertisement\n\n‎\n\n‎\n\n    \n\n\nCharacters: 广\n\n\n告\n",
       "id": "level-29-sentences:60",
-      "characters": "广 告",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "广 告"
     },
     {
       "Chinese": "比如，广告里的牛肉面，牛肉特别大一块。",
       "English": "For example, in the advertisement, the beef pieces in the noodles are very big.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0061-audio-1-23de15e615.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0061-audio-2-6bb1f98477.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%AF%94%E5%A6%82%EF%BC%8C%E5%B9%BF%E5%91%8A%E9%87%8C%E7%9A%84%E7%89%9B%E8%82%89%E9%9D%A2%EF%BC%8C%E7%89%9B%E8%82%89%E7%89%B9%E5%88%AB%E5%A4%A7%E4%B8%80%E5%9D%97-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%AF%94%E5%A6%82%EF%BC%8C%E5%B9%BF%E5%91%8A%E9%87%8C%E7%9A%84%E7%89%9B%E8%82%89%E9%9D%A2%EF%BC%8C%E7%89%9B%E8%82%89%E7%89%B9%E5%88%AB%E5%A4%A7%E4%B8%80%E5%9D%97-%E7%94%B7.mp3",
       "Raw Text": "比如，广告里的牛肉面，牛肉特别大一块。\nFor example, in the advertisement, the beef pieces in the noodles are very big.\n\n1. advertisement\n\n‎\n\n‎\n\n    \n\n\nCharacters: 广\n\n\n告\n",
       "id": "level-29-sentences:61",
-      "characters": "广 告",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "广 告"
     },
     {
       "Chinese": "以前，广告很重要，因为大家可以看广告来知道自己想买什么。",
       "English": "In the past, advertisements were very important because people could see them to know what they wanted to buy.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0062-audio-1-c3886bdee8.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0062-audio-2-a1e3ea3992.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%A5%E5%89%8D%EF%BC%8C%E5%B9%BF%E5%91%8A%E5%BE%88%E9%87%8D%E8%A6%81%EF%BC%8C%E5%9B%A0%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%B9%BF%E5%91%8A%E6%9D%A5%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%83%B3%E4%B9%B0%E4%BB%80%E4%B9%88-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%A5%E5%89%8D%EF%BC%8C%E5%B9%BF%E5%91%8A%E5%BE%88%E9%87%8D%E8%A6%81%EF%BC%8C%E5%9B%A0%E4%B8%BA%E5%A4%A7%E5%AE%B6%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%B9%BF%E5%91%8A%E6%9D%A5%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%83%B3%E4%B9%B0%E4%BB%80%E4%B9%88-%E7%94%B7.mp3",
       "Raw Text": "以前，广告很重要，因为大家可以看广告来知道自己想买什么。\nIn the past, advertisements were very important because people could see them to know what they wanted to buy.\n\n1. advertisement\n\n‎\n\n知道 zhīdào - to know\n\n‎\n\n    \n\n\nCharacters: 广\n\n\n告\n",
       "id": "level-29-sentences:62",
-      "characters": "广 告",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "广 告"
     },
     {
       "Chinese": "以前的广告不会骗人，但现在的广告为了吸引人，会先把自己的东西说得非常完美。",
       "English": "Advertisements in the past didn’t lie, but now ads exaggerate to attract people, presenting their products as perfect.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0063-audio-1-93d1f29974.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0063-audio-2-d75972cae1.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%A5%E5%89%8D%E7%9A%84%E5%B9%BF%E5%91%8A%E4%B8%8D%E4%BC%9A%E9%AA%97%E4%BA%BA%EF%BC%8C%E4%BD%86%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B9%BF%E5%91%8A%E4%B8%BA%E4%BA%86%E5%90%B8%E5%BC%95%E4%BA%BA-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%A5%E5%89%8D%E7%9A%84%E5%B9%BF%E5%91%8A%E4%B8%8D%E4%BC%9A%E9%AA%97%E4%BA%BA%EF%BC%8C%E4%BD%86%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B9%BF%E5%91%8A%E4%B8%BA%E4%BA%86%E5%90%B8%E5%BC%95%E4%BA%BA-%E7%94%B7.mp3",
       "Raw Text": "以前的广告不会骗人，但现在的广告为了吸引人，会先把自己的东西说得非常完美。\nAdvertisements in the past didn’t lie, but now ads exaggerate to attract people, presenting their products as perfect.\n\n1. advertisement\n\n‎\n\n骗 piàn - to cheat    吸引 xīyǐn - attract    把 bǎ - (preposition used to shift the object to before the verb, which must be accompanied by some other word or expression, often a verb complement)    非常 fēicháng - very\n\n‎\n\n    \n\n\nCharacters: 广\n\n\n告\n",
       "id": "level-29-sentences:63",
-      "characters": "广 告",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "广 告"
     },
     {
       "Chinese": "先生，请问您贵姓？",
       "English": "",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0064-audio-1-125f88f5ff.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0064-audio-2-f0cd13c3b1.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%85%88%E7%94%9F%EF%BC%8C%E8%AF%B7%E9%97%AE%E6%82%A8%E8%B4%B5%E5%A7%93-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%85%88%E7%94%9F%EF%BC%8C%E8%AF%B7%E9%97%AE%E6%82%A8%E8%B4%B5%E5%A7%93-%E7%94%B7.mp3",
       "Raw Text": "先生，请问您贵姓?\nSir, may I ask your surname?\n\n1. mister, sir (sheng)\n\n‎\n\n‎\n\n\n\n\n\n\n\nCharacters: 先\n\n\n生\n",
       "id": "level-29-sentences:64",
-      "characters": "先 生",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "先 生"
     },
     {
       "Chinese": "先生您好！欢迎来到“大家饭店”。",
       "English": "Hello sir! Welcome to “Everyone’s Restaurant.”",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0065-audio-1-889151d2f7.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0065-audio-2-3ca31fa9c1.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%85%88%E7%94%9F%E6%82%A8%E5%A5%BD%EF%BC%81%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E2%80%9C%E5%A4%A7%E5%AE%B6%E9%A5%AD%E5%BA%97%E2%80%9D-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%85%88%E7%94%9F%E6%82%A8%E5%A5%BD%EF%BC%81%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E2%80%9C%E5%A4%A7%E5%AE%B6%E9%A5%AD%E5%BA%97%E2%80%9D-%E7%94%B7.mp3",
       "Raw Text": "先生您好！欢迎来到“大家饭店”。\nHello sir! Welcome to “Everyone’s Restaurant.”\n\n1. mister, sir (sheng)\n\n‎\n\n欢迎 huānyíng - welcome\n\n‎\n\n    \n\n\nCharacters: 先\n\n\n生\n",
       "id": "level-29-sentences:65",
-      "characters": "先 生",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "先 生"
     },
     {
       "Chinese": "马先生，请问几位？",
       "English": "Mr. Ma, how many people?",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0066-audio-1-da371bbad2.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0066-audio-2-63b7e7e20e.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E9%A9%AC%E5%85%88%E7%94%9F%EF%BC%8C%E8%AF%B7%E9%97%AE%E5%87%A0%E4%BD%8D-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E9%A9%AC%E5%85%88%E7%94%9F%EF%BC%8C%E8%AF%B7%E9%97%AE%E5%87%A0%E4%BD%8D-%E7%94%B7.mp3",
       "Raw Text": "马先生，请问几位？\nMr. Ma, how many people?\n\n1. mister, sir (sheng)\n\n‎\n\n位 wèi - measure word for people showing respect\n\n‎\n\n    \n\n\nCharacters: 先\n\n\n生\n",
       "id": "level-29-sentences:66",
-      "characters": "先 生",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "先 生"
     },
     {
       "Chinese": "今天你洗碗。",
       "English": "You wash the dishes today.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0067-audio-1-cc340cacd9.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0067-audio-2-ea5b661a72.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%8A%E5%A4%A9%E4%BD%A0%E6%B4%97%E7%A2%97-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%8A%E5%A4%A9%E4%BD%A0%E6%B4%97%E7%A2%97-%E7%94%B7.mp3",
       "Raw Text": "今天你洗碗。\nYou wash the dishes today.\n\n1. to wash\n\n‎\n\n碗 wǎn - bowl\n\n‎\n\n    \n\n\nCharacters: 洗\n",
       "id": "level-29-sentences:67",
-      "characters": "洗",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "洗"
     },
     {
       "Chinese": "请问洗手间在哪里？我要洗澡。",
       "English": "Excuse me, where is the bathroom? I want to take a shower.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0068-audio-1-9e3699b1d4.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0068-audio-2-535a895c44.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%AF%B7%E9%97%AE%E6%B4%97%E6%89%8B%E9%97%B4%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F%E6%88%91%E8%A6%81%E6%B4%97%E6%BE%A1-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%AF%B7%E9%97%AE%E6%B4%97%E6%89%8B%E9%97%B4%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F%E6%88%91%E8%A6%81%E6%B4%97%E6%BE%A1-%E7%94%B7.mp3",
       "Raw Text": "请问洗手间在哪里？我要洗澡。\nExcuse me, where is the bathroom? I want to take a shower.\n\n1. washroom, bathroom, toilet\n\n‎\n\n洗澡 xǐzǎo - bathe; take a bath or shower; bath or shower\n\n‎\n\n    \n\n\nCharacters: 间\n\n\n洗\n\n\n手\n",
       "id": "level-29-sentences:68",
-      "characters": "间 洗 手",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "洗 手 间"
     },
     {
       "Chinese": "对了，你们的洗手间在哪里呢？",
       "English": "By the way, where is your bathroom?",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0069-audio-1-09f9eec3c4.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0069-audio-2-343847e0e0.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%AF%B9%E4%BA%86%EF%BC%8C%E4%BD%A0%E4%BB%AC%E7%9A%84%E6%B4%97%E6%89%8B%E9%97%B4%E5%9C%A8%E5%93%AA%E9%87%8C%E5%91%A2-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%AF%B9%E4%BA%86%EF%BC%8C%E4%BD%A0%E4%BB%AC%E7%9A%84%E6%B4%97%E6%89%8B%E9%97%B4%E5%9C%A8%E5%93%AA%E9%87%8C%E5%91%A2-%E7%94%B7.mp3",
       "Raw Text": "对了，你们的洗手间在哪里呢？\nBy the way, where is your bathroom?\n\n1. washroom, bathroom, toilet\n\n‎\n\n呢 ne - softened tone of questions\n\n‎\n\n    \n\n\nCharacters: 间\n\n\n洗\n\n\n手\n",
       "id": "level-29-sentences:69",
-      "characters": "间 洗 手",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "洗 手 间"
     },
     {
       "Chinese": "我想了解中文。",
       "English": "I want to learn about Chinese.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0070-audio-1-bbed28a3d4.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0070-audio-2-6f54e63af5.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E6%83%B3%E4%BA%86%E8%A7%A3%E4%B8%AD%E6%96%87-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E6%83%B3%E4%BA%86%E8%A7%A3%E4%B8%AD%E6%96%87-%E7%94%B7.mp3",
       "Raw Text": "我想了解中文。\nI want to learn about Chinese.\n\n1. to understand, to comprehend (often related to very complex topics like someone’s personality)\n\n‎\n\n‎\n\n    \n\n\nCharacters: 解\n\n\n了\n",
       "id": "level-29-sentences:70",
-      "characters": "解 了",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "了 解"
     },
     {
       "Chinese": "他以为我会喜欢这件衬衫？他一点儿也不了解我！",
       "English": "He thinks I would like this shirt? He doesn’t understand me at all!",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0071-audio-1-58dadc8f0c.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0071-audio-2-038af27838.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%96%E4%BB%A5%E4%B8%BA%E6%88%91%E4%BC%9A%E5%96%9C%E6%AC%A2%E8%BF%99%E4%BB%B6%E8%A1%AC%E8%A1%AB%EF%BC%9F%E4%BB%96%E4%B8%80%E7%82%B9%E5%84%BF%E4%B9%9F%E4%B8%8D%E4%BA%86%E8%A7%A3%E6%88%91-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BB%96%E4%BB%A5%E4%B8%BA%E6%88%91%E4%BC%9A%E5%96%9C%E6%AC%A2%E8%BF%99%E4%BB%B6%E8%A1%AC%E8%A1%AB%EF%BC%9F%E4%BB%96%E4%B8%80%E7%82%B9%E5%84%BF%E4%B9%9F%E4%B8%8D%E4%BA%86%E8%A7%A3%E6%88%91-%E7%94%B7.mp3",
       "Raw Text": "他以为我会喜欢这件衬衫？他一点儿也不了解我！\nHe thinks I would like this shirt? He doesn’t understand me at all!\n\n1. to understand, to comprehend (often related to very complex topics like someone’s personality)\n\n‎\n\n喜欢 xǐhuān - to like  衬衫 chènshān - shirt; blouse\n\n‎\n\n    \n\n\nCharacters: 解\n\n\n了\n",
       "id": "level-29-sentences:71",
-      "characters": "解 了",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "了 解"
     },
     {
       "Chinese": "我可以解决这个问题。",
       "English": "I can solve this problem.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0072-audio-1-834aed9400.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0072-audio-2-be007f5b47.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B3%E8%BF%99%E4%B8%AA%E9%97%AE%E9%A2%98-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%8F%AF%E4%BB%A5%E8%A7%A3%E5%86%B3%E8%BF%99%E4%B8%AA%E9%97%AE%E9%A2%98-%E7%94%B7.mp3",
       "Raw Text": "我可以解决这个问题。\nI can solve this problem.\n\n1. to solve\n\n‎\n\n‎\n\n    \n\n\nCharacters: 决\n\n\n解\n",
       "id": "level-29-sentences:72",
-      "characters": "决 解",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "解 决"
     },
     {
       "Chinese": "解决了的话，我也就不用这么晚去坐车了。",
       "English": "If it’s solved, I won’t have to take the bus so late.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0073-audio-1-6d99e74297.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0073-audio-2-1e88ee89e6.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%A7%A3%E5%86%B3%E4%BA%86%E7%9A%84%E8%AF%9D%EF%BC%8C%E6%88%91%E4%B9%9F%E5%B0%B1%E4%B8%8D%E7%94%A8%E8%BF%99%E4%B9%88%E6%99%9A%E5%8E%BB%E5%9D%90%E8%BD%A6%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%A7%A3%E5%86%B3%E4%BA%86%E7%9A%84%E8%AF%9D%EF%BC%8C%E6%88%91%E4%B9%9F%E5%B0%B1%E4%B8%8D%E7%94%A8%E8%BF%99%E4%B9%88%E6%99%9A%E5%8E%BB%E5%9D%90%E8%BD%A6%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "解决了的话，我也就不用这么晚去坐车了。\nIf it’s solved, I won’t have to take the bus so late.\n\n1. to solve\n\n‎\n\n就 jiù - (expressing condition “then”)\n\n坐车 zuòchē - to take a bus or train\n\n‎\n\n    \n\n\nCharacters: 决\n\n\n解\n",
       "id": "level-29-sentences:73",
-      "characters": "决 解",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "解 决"
     },
     {
       "Chinese": "希望中国政府能想办法解决这个大问题。",
       "English": "I hope the Chinese government can find a way to solve this big problem.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0074-audio-1-c41b86cc12.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0074-audio-2-1e1a29ffb2.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%83%BD%E6%83%B3%E5%8A%9E%E6%B3%95%E8%A7%A3%E5%86%B3%E8%BF%99%E4%B8%AA%E5%A4%A7%E9%97%AE%E9%A2%98-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%83%BD%E6%83%B3%E5%8A%9E%E6%B3%95%E8%A7%A3%E5%86%B3%E8%BF%99%E4%B8%AA%E5%A4%A7%E9%97%AE%E9%A2%98-%E7%94%B7.mp3",
       "Raw Text": "希望中国政府能想办法解决这个大问题。\nI hope the Chinese government can find a way to solve this big problem.\n\n1. to solve\n\n‎\n\n希望 xīwàng - hope  政府 zhèngfǔ - government\n\n‎\n\n    \n\n\nCharacters: 决\n\n\n解\n",
       "id": "level-29-sentences:74",
-      "characters": "决 解",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "解 决"
     },
     {
       "Chinese": "我当然会用筷子。",
       "English": "Of course I can use chopsticks.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0075-audio-1-6322b5940a.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0075-audio-2-a138699d2e.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%BD%93%E7%84%B6%E4%BC%9A%E7%94%A8%E7%AD%B7%E5%AD%90-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%BD%93%E7%84%B6%E4%BC%9A%E7%94%A8%E7%AD%B7%E5%AD%90-%E7%94%B7.mp3",
       "Raw Text": "我当然会用筷子。\nOf course I can use chopsticks.\n\n1. of course\n\n‎\n\n筷子 kuàizi - chopsticks\n\n‎\n\n    \n\n\nCharacters: 然\n\n\n当\n",
       "id": "level-29-sentences:75",
-      "characters": "然 当",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "当 然"
     },
     {
       "Chinese": "我当时应该认真学习中文。",
       "English": "I should have studied Chinese seriously at that time.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0076-audio-1-ee93bd61c3.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0076-audio-2-0b97baa045.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%BD%93%E6%97%B6%E5%BA%94%E8%AF%A5%E8%AE%A4%E7%9C%9F%E5%AD%A6%E4%B9%A0%E4%B8%AD%E6%96%87-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E5%BD%93%E6%97%B6%E5%BA%94%E8%AF%A5%E8%AE%A4%E7%9C%9F%E5%AD%A6%E4%B9%A0%E4%B8%AD%E6%96%87-%E7%94%B7.mp3",
       "Raw Text": "我当时应该认真学习中文。\nI should have studied Chinese seriously at that time.\n\n1. at the time\n\n‎\n\n‎\n\n    \n\n\nCharacters: 时\n\n\n当\n",
       "id": "level-29-sentences:76",
-      "characters": "时 当",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "当 时"
     },
     {
       "Chinese": "我们来打扫房间。",
       "English": "Let’s clean the room.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0077-audio-1-3ddbef0bb4.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0077-audio-2-a960df566b.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E4%BB%AC%E6%9D%A5%E6%89%93%E6%89%AB%E6%88%BF%E9%97%B4-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E4%BB%AC%E6%9D%A5%E6%89%93%E6%89%AB%E6%88%BF%E9%97%B4-%E7%94%B7.mp3",
       "Raw Text": "我们来打扫房间。\nLet’s clean the room.\n\n1. to clean (e.g. a room)\n\n‎\n\n房间 fángjiān - room\n\n‎\n\n    \n\n\nCharacters: 打\n\n\n扫\n",
       "id": "level-29-sentences:77",
-      "characters": "打 扫",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "打 扫"
     },
     {
       "Chinese": "这件事有点儿难。",
       "English": "This matter is a bit difficult.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0078-audio-1-4490c13317.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0078-audio-2-027ae7ebbc.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%9C%89%E7%82%B9%E5%84%BF%E9%9A%BE-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%9C%89%E7%82%B9%E5%84%BF%E9%9A%BE-%E7%94%B7.mp3",
       "Raw Text": "这件事有点儿难。\nThis matter is a bit difficult.\n\n1. a matter, affair, thing\n\n‎\n\n难 nán - difficult\n\n‎\n\n    \n\n\nCharacters: 事\n",
       "id": "level-29-sentences:78",
-      "characters": "事",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "事"
     },
     {
       "Chinese": "我还以为什么大事！",
       "English": "I thought it was something big!",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0079-audio-1-0512192db6.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0079-audio-2-8caea18c71.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E4%BA%8B-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E8%BF%98%E4%BB%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E4%BA%8B-%E7%94%B7.mp3",
       "Raw Text": "我还以为什么大事！\nI thought it was something big!\n\n1. a matter, affair, thing\n\n‎\n\n‎\n\n    \n\n\nCharacters: 事\n",
       "id": "level-29-sentences:79",
-      "characters": "事",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "事"
     },
     {
       "Chinese": "小孩子做错事很正常。",
       "English": "It’s normal for children to make mistakes.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0080-audio-1-80fac05e6d.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E5%B0%8F%E5%AD%A9%E5%AD%90%E5%81%9A%E9%94%99%E4%BA%8B%E5%BE%88%E6%AD%A3%E5%B8%B8-%E5%A5%B3.mp3",
       "Audio 2": "",
       "Raw Text": "小孩子做错事很正常。\nIt’s normal for children to make mistakes.\n\n1. a matter, affair, thing\n\n‎\n\n正常 zhèngcháng - normal\n\n‎\n\n    \n\n\nCharacters: 事\n",
       "id": "level-29-sentences:80",
-      "characters": "事",
-      "Audio 1 Local": "true"
+      "characters": "事"
     },
     {
       "Chinese": "留学的事情不太容易。",
       "English": "Studying abroad is not very easy.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0081-audio-1-ea5fbedc78.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0081-audio-2-445e7bb764.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E7%95%99%E5%AD%A6%E7%9A%84%E4%BA%8B%E6%83%85%E4%B8%8D%E5%A4%AA%E5%AE%B9%E6%98%93-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E7%95%99%E5%AD%A6%E7%9A%84%E4%BA%8B%E6%83%85%E4%B8%8D%E5%A4%AA%E5%AE%B9%E6%98%93-%E7%94%B7.mp3",
       "Raw Text": "留学的事情不太容易。\nStudying abroad is not very easy.\n\n1. a matter, affair, thing\n\n‎\n\n留学 liúxué - study abroad  容易 róngyì - easy\n\n‎\n\n    \n\n\nCharacters: 事\n\n\n情\n",
       "id": "level-29-sentences:81",
-      "characters": "事 情",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "事 情"
     },
     {
       "Chinese": "你对我的同事感兴趣吗？",
       "English": "Are you interested in my colleague?",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0082-audio-1-5fedb315c3.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0082-audio-2-2a01e26f52.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BD%A0%E5%AF%B9%E6%88%91%E7%9A%84%E5%90%8C%E4%BA%8B%E6%84%9F%E5%85%B4%E8%B6%A3%E5%90%97-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BD%A0%E5%AF%B9%E6%88%91%E7%9A%84%E5%90%8C%E4%BA%8B%E6%84%9F%E5%85%B4%E8%B6%A3%E5%90%97-%E7%94%B7.mp3",
       "Raw Text": "你对我的同事感兴趣吗？\nAre you interested in my colleague?\n\n1. colleague, co-worker\n\n‎\n\n感兴趣 gǎnxìngqù - be interested in\n\n‎\n\n    \n\n\nCharacters: 事\n\n\n同\n",
       "id": "level-29-sentences:82",
-      "characters": "事 同",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "同 事"
     },
     {
       "Chinese": "还是我同事帮我买的。",
       "English": "Still, it's my colleague who bought this for me.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0083-audio-1-ec3315e980.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0083-audio-2-fd37ea7c2f.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%98%E6%98%AF%E6%88%91%E5%90%8C%E4%BA%8B%E5%B8%AE%E6%88%91%E4%B9%B0%E7%9A%84-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E8%BF%98%E6%98%AF%E6%88%91%E5%90%8C%E4%BA%8B%E5%B8%AE%E6%88%91%E4%B9%B0%E7%9A%84-%E7%94%B7.mp3",
       "Raw Text": "还是我同事帮我买的。\nStill, it's my colleague who bought this for me.\n\n1. colleague, co-worker\n\n‎\n\n帮 bāng - To Help\n\n‎\n\n    \n\n\nCharacters: 事\n\n\n同\n",
       "id": "level-29-sentences:83",
-      "characters": "事 同",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "同 事"
     },
     {
       "Chinese": "空调坏了是一件小事儿。",
       "English": "The air conditioner breaking is a small matter.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0084-audio-1-6f122a808d.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0084-audio-2-bbc189644e.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E7%A9%BA%E8%B0%83%E5%9D%8F%E4%BA%86%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B%E5%84%BF-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E7%A9%BA%E8%B0%83%E5%9D%8F%E4%BA%86%E6%98%AF%E4%B8%80%E4%BB%B6%E5%B0%8F%E4%BA%8B%E5%84%BF-%E7%94%B7.mp3",
       "Raw Text": "空调坏了是一件小事儿。\nThe air conditioner breaking is a small matter.\n\n1. issue, matter, thing\n\n‎\n\n空调 kōngtiáo - air conditioning\n\n‎\n\n    \n\n\nCharacters: 儿\n\n\n事\n",
       "id": "level-29-sentences:84",
-      "characters": "儿 事",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "事 儿"
     },
     {
       "Chinese": "我们出事了。",
       "English": "We had an accident.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0085-audio-1-2cd728bbd7.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0085-audio-2-ffcce73442.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E4%BB%AC%E5%87%BA%E4%BA%8B%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E4%BB%AC%E5%87%BA%E4%BA%8B%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "我们出事了。\nWe had an accident.\n\n1. have an accident, meet with a mishap\n\n‎\n\n‎\n\n    \n\n\nCharacters: 出\n\n\n事\n",
       "id": "level-29-sentences:85",
-      "characters": "出 事",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "出 事"
     },
     {
       "Chinese": "你这是怎么回事？",
       "English": "What’s going on here?",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0086-audio-1-2edcc65259.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0086-audio-2-40f0b1ad87.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BD%A0%E8%BF%99%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E4%BD%A0%E8%BF%99%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B-%E7%94%B7.mp3",
       "Raw Text": "你这是怎么回事？\nWhat’s going on here?\n\n1. what’s it all about? what’s up with that? what’s going on\n\n‎\n\n‎\n\n    \n\n\nCharacters: 回\n\n\n事\n\n\n怎\n\n\n么\n",
       "id": "level-29-sentences:86",
-      "characters": "回 事 怎 么",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "怎 么 回 事"
     },
     {
       "Chinese": "怎么回事？你儿子怎么哭了？",
       "English": "What’s going on? Why is your son crying?",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0087-audio-1-bea38a085f.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0087-audio-2-28f7969d81.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%EF%BC%9F%E4%BD%A0%E5%84%BF%E5%AD%90%E6%80%8E%E4%B9%88%E5%93%AD%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%EF%BC%9F%E4%BD%A0%E5%84%BF%E5%AD%90%E6%80%8E%E4%B9%88%E5%93%AD%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "怎么回事？你儿子怎么哭了？\nWhat’s going on? Why is your son crying?\n\n1. what’s it all about? what’s up with that? what’s going on\n\n‎\n\n‎\n\n    \n\n\nCharacters: 回\n\n\n事\n\n\n怎\n\n\n么\n",
       "id": "level-29-sentences:87",
-      "characters": "回 事 怎 么",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "怎 么 回 事"
     },
     {
       "Chinese": "我没事（儿）了。",
       "English": "I’m fine now.",
-      "Audio 1": "audio_library/level-29-sentences/audio-1/0088-audio-1-69a64207ab.mp3",
-      "Audio 2": "audio_library/level-29-sentences/audio-2/0088-audio-2-0fad76a120.mp3",
+      "Audio 1": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E6%B2%A1%E4%BA%8B%EF%BC%88%E5%84%BF%EF%BC%89%E4%BA%86-%E5%A5%B3.mp3",
+      "Audio 2": "https://storage.googleapis.com/alley-d0944.appspot.com/Mandarin_Blueprint/LEVEL29-%E6%88%91%E6%B2%A1%E4%BA%8B%EF%BC%88%E5%84%BF%EF%BC%89%E4%BA%86-%E7%94%B7.mp3",
       "Raw Text": "我没事（儿）了。\nI’m fine now.\n\n1. no big deal, it doesn’t matter\n\n‎\n\n‎\n\n\n\n\n\n\n\nCharacters: 儿\n\n\n没\n\n\n事\n\n\nUntitled\n\n\nUntitled\n",
       "id": "level-29-sentences:88",
-      "characters": "儿 没 事",
-      "Audio 1 Local": "true",
-      "Audio 2 Local": "true"
+      "characters": "没 事 儿"
     }
   ]
 }

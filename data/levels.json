@@ -67,7 +67,19 @@
       "label": "Level 38",
       "filename": "Level 38 Sentences.csv",
       "count": 203
+    },
+    {
+      "id": "level-39-sentences",
+      "label": "Level 39",
+      "filename": "Level 39 Sentences.csv",
+      "count": 215
+    },
+    {
+      "id": "level-40-sentences",
+      "label": "Level 40",
+      "filename": "Level 40 Sentences.csv",
+      "count": 212
     }
   ],
-  "defaultLevel": "level-38-sentences"
+  "defaultLevel": "level-40-sentences"
 }
